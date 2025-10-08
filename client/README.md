@@ -1,6 +1,6 @@
 # Sales Price Prediction – ML
 
-![Login Page](../images/login.png)
+![Login Page](/images/login.png)
 *Figure 1: Secure login page for the Sales Price Prediction web application.*
 
 ---
