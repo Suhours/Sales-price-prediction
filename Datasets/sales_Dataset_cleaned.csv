@@ -1,0 +1,1001 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Units Sold,Unit Price,Unit Cost,Total Profit,Order year,Order Month,Order Weekday,Order_Ship_Days
+Middle East and North Africa,Libya,Cosmetics,Offline,M,8446,437.2,263.33,1468506.02,2014,10,fri,13 days
+North America,Canada,Vegetables,Online,M,3018,154.06,90.93,190526.34,2011,11,sun,31 days
+Middle East and North Africa,Libya,Baby Food,Offline,C,1517,255.28,159.42,145419.62,2016,10,sun,39 days
+Asia,Japan,Cereal,Offline,C,3322,205.7,117.11,294295.98,2010,4,fri,32 days
+Sub-Saharan Africa,Chad,Fruits,Offline,H,9845,9.33,6.92,23726.45,2011,8,mon,15 days
+Europe,Armenia,Cereal,Online,H,9528,205.7,117.11,844085.52,2014,11,sun,34 days
+Sub-Saharan Africa,Eritrea,Cereal,Online,H,2844,205.7,117.11,251949.96,2015,3,tue,44 days
+Europe,Montenegro,Clothes,Offline,M,7299,109.28,35.84,536038.56,2012,5,wed,42 days
+Central America and the Caribbean,Jamaica,Vegetables,Online,H,2428,154.06,90.93,153279.64,2015,1,wed,37 days
+Australia and Oceania,Fiji,Vegetables,Offline,H,4800,154.06,90.93,303024.0,2013,12,mon,26 days
+Sub-Saharan Africa,Togo,Clothes,Online,M,3012,109.28,35.84,221201.28,2015,12,mon,21 days
+Europe,Montenegro,Snacks,Offline,M,2694,152.58,97.44,148547.16,2010,2,fri,19 days
+Europe,Greece,Household,Online,C,1508,668.27,502.54,249920.84,2016,11,wed,35 days
+Sub-Saharan Africa,Sudan,Cosmetics,Online,C,4146,437.2,263.33,720865.02,2015,12,sat,16 days
+Asia,Maldives,Fruits,Offline,L,7332,9.33,6.92,17670.12,2011,1,fri,29 days
+Europe,Montenegro,Clothes,Offline,H,4820,109.28,35.84,353980.8,2010,6,sun,24 days
+Europe,Estonia,Office Supplies,Online,H,2397,651.21,524.96,302621.25,2016,4,sun,17 days
+North America,Greenland,Beverages,Online,M,2880,47.45,31.79,45100.8,2012,7,thur,11 days
+Sub-Saharan Africa,Cape Verde,Clothes,Online,C,1117,109.28,35.84,82032.48,2014,9,sun,25 days
+Sub-Saharan Africa,Senegal,Household,Offline,L,8989,668.27,502.54,1489746.97,2012,8,sun,12 days
+Australia and Oceania,Federated States of Micronesia,Snacks,Online,C,407,152.58,97.44,22441.98,2012,9,sun,42 days
+Europe,Bulgaria,Clothes,Online,L,6313,109.28,35.84,463626.72,2010,8,thur,20 days
+Middle East and North Africa,Algeria,Personal Care,Online,H,9681,81.73,56.67,242605.86,2011,2,sat,17 days
+Asia,Mongolia,Clothes,Online,L,515,109.28,35.84,37821.6,2015,12,fri,43 days
+Central America and the Caribbean,Grenada,Cereal,Online,H,852,205.7,117.11,75478.68,2012,10,sat,16 days
+Central America and the Caribbean,Grenada,Beverages,Online,M,9759,47.45,31.79,152825.94,2017,1,sun,49 days
+Sub-Saharan Africa,Senegal,Beverages,Offline,M,8334,47.45,31.79,130510.44,2014,10,tue,13 days
+North America,Greenland,Fruits,Offline,M,4709,9.33,6.92,11348.69,2012,1,mon,22 days
+Sub-Saharan Africa,Chad,Meat,Offline,H,9043,421.89,364.69,517259.6,2016,1,tue,49 days
+Sub-Saharan Africa,Mauritius ,Personal Care,Online,C,8529,81.73,56.67,213736.74,2016,1,thur,6 days
+Middle East and North Africa,Morocco,Beverages,Offline,C,2391,47.45,31.79,37443.06,2017,6,wed,22 days
+Central America and the Caribbean,Honduras,Office Supplies,Online,H,6884,651.21,524.96,869105.0,2015,6,mon,9 days
+Sub-Saharan Africa,Benin,Fruits,Online,L,293,9.33,6.92,706.13,2014,1,mon,47 days
+Europe,Greece,Baby Food,Offline,M,7937,255.28,159.42,760840.82,2014,4,mon,0 days
+Central America and the Caribbean,Jamaica,Beverages,Offline,L,7163,47.45,31.79,112172.58,2010,9,fri,50 days
+Sub-Saharan Africa,Equatorial Guinea,Office Supplies,Online,M,2352,651.21,524.96,296940.0,2010,5,sat,12 days
+Sub-Saharan Africa,Swaziland,Office Supplies,Offline,H,9915,651.21,524.96,1251768.75,2013,10,wed,19 days
+Central America and the Caribbean,Trinidad and Tobago,Vegetables,Offline,M,3294,154.06,90.93,207950.22,2011,3,sat,39 days
+Europe,Sweden,Baby Food,Online,L,7963,255.28,159.42,763333.18,2016,8,sat,5 days
+Europe,Belarus,Office Supplies,Online,L,6426,651.21,524.96,811282.5,2011,1,mon,38 days
+Sub-Saharan Africa,Guinea-Bissau,Office Supplies,Offline,C,3221,651.21,524.96,406651.25,2014,5,tue,22 days
+Asia,Mongolia,Beverages,Online,M,9913,47.45,31.79,155237.58,2013,8,fri,30 days
+Middle East and North Africa,Turkey,Meat,Online,L,103,421.89,364.69,5891.6,2011,10,tue,46 days
+Sub-Saharan Africa,Central African Republic,Snacks,Offline,L,4419,152.58,97.44,243663.66,2016,11,mon,45 days
+Sub-Saharan Africa,Equatorial Guinea,Office Supplies,Offline,L,5523,651.21,524.96,697278.75,2015,4,thur,14 days
+Asia,Laos,Beverages,Online,M,3107,47.45,31.79,48655.62,2013,3,thur,30 days
+Europe,Armenia,Meat,Online,C,8896,421.89,364.69,508851.2,2010,8,sun,30 days
+Europe,Greece,Household,Online,L,1643,668.27,502.54,272294.39,2012,1,wed,41 days
+Middle East and North Africa,Israel,Personal Care,Offline,H,2135,81.73,56.67,53503.1,2015,8,tue,4 days
+Asia,Bhutan,Meat,Online,H,8189,421.89,364.69,468410.8,2016,12,thur,48 days
+Australia and Oceania,Vanuatu,Vegetables,Online,L,9654,154.06,90.93,609457.02,2012,5,wed,14 days
+Sub-Saharan Africa,Burundi,Vegetables,Online,M,3410,154.06,90.93,215273.3,2010,11,tue,33 days
+Europe,Ukraine,Cosmetics,Online,M,8368,437.2,263.33,1454944.16,2014,11,wed,49 days
+Europe,Croatia,Beverages,Online,C,470,47.45,31.79,7360.2,2016,6,wed,42 days
+Sub-Saharan Africa,Madagascar,Fruits,Online,L,7690,9.33,6.92,18532.9,2016,5,mon,7 days
+Asia,Malaysia,Snacks,Offline,M,5033,152.58,97.44,277519.62,2012,10,fri,30 days
+Asia,Uzbekistan,Office Supplies,Offline,L,9535,651.21,524.96,1203793.75,2012,3,fri,5 days
+Europe,Italy,Office Supplies,Online,M,5263,651.21,524.96,664453.75,2011,1,tue,18 days
+Asia,Nepal,Vegetables,Offline,C,8316,154.06,90.93,524989.08,2014,6,sun,17 days
+Australia and Oceania,Fiji,Personal Care,Offline,H,1824,81.73,56.67,45709.44,2016,12,fri,39 days
+Europe,Portugal,Office Supplies,Online,L,949,651.21,524.96,119811.25,2014,6,thur,32 days
+Central America and the Caribbean,Panama,Cosmetics,Offline,H,7881,437.2,263.33,1370269.47,2015,3,mon,36 days
+Europe,Belarus,Beverages,Offline,L,6846,47.45,31.79,107208.36,2013,4,tue,1 days
+Sub-Saharan Africa,Botswana,Clothes,Offline,C,9097,109.28,35.84,668083.68,2015,3,sat,17 days
+Sub-Saharan Africa,Tanzania,Personal Care,Online,M,7921,81.73,56.67,198500.26,2013,6,thur,38 days
+Europe,Romania,Office Supplies,Offline,C,3636,651.21,524.96,459045.0,2013,1,sat,2 days
+Sub-Saharan Africa,Mali,Cereal,Online,L,8590,205.7,117.11,760988.1,2012,3,fri,17 days
+Sub-Saharan Africa,Central African Republic,Office Supplies,Offline,C,2163,651.21,524.96,273078.75,2014,4,thur,24 days
+Sub-Saharan Africa,Niger,Baby Food,Online,M,5766,255.28,159.42,552728.76,2016,1,sat,29 days
+Europe,Austria,Office Supplies,Online,L,7841,651.21,524.96,989926.25,2011,5,wed,27 days
+Asia,India,Fruits,Online,H,8862,9.33,6.92,21357.42,2010,7,wed,24 days
+Europe,Luxembourg,Baby Food,Offline,L,6335,255.28,159.42,607273.1,2013,8,thur,17 days
+Sub-Saharan Africa,Cape Verde,Beverages,Offline,H,9794,47.45,31.79,153374.04,2013,10,tue,14 days
+Europe,Sweden,Vegetables,Offline,M,5808,154.06,90.93,366659.04,2017,2,sat,14 days
+Europe,Iceland,Meat,Offline,H,2975,421.89,364.69,170170.0,2015,3,thur,28 days
+Middle East and North Africa,Qatar,Personal Care,Offline,L,6925,81.73,56.67,173540.5,2012,5,sat,2 days
+Sub-Saharan Africa,South Sudan,Meat,Online,C,5319,421.89,364.69,304246.8,2013,9,sun,1 days
+Europe,United Kingdom,Office Supplies,Online,M,2850,651.21,524.96,359812.5,2014,5,mon,25 days
+Middle East and North Africa,Tunisia ,Cereal,Online,L,6241,205.7,117.11,552890.19,2010,4,thur,38 days
+North America,United States of America,Office Supplies,Online,C,9247,651.21,524.96,1167433.75,2017,6,thur,40 days
+Sub-Saharan Africa,Liberia,Cereal,Online,L,7653,205.7,117.11,677979.27,2015,2,sat,49 days
+Sub-Saharan Africa,Eritrea,Snacks,Offline,L,4279,152.58,97.44,235944.06,2010,1,sun,16 days
+Asia,South Korea,Fruits,Offline,L,3972,9.33,6.92,9572.52,2010,3,sat,10 days
+Sub-Saharan Africa,Kenya,Clothes,Offline,M,8611,109.28,35.84,632391.84,2013,1,wed,36 days
+Sub-Saharan Africa,Rwanda,Snacks,Online,M,2109,152.58,97.44,116290.26,2017,3,sun,12 days
+Central America and the Caribbean,Cuba,Beverages,Offline,C,5408,47.45,31.79,84689.28,2011,1,sat,45 days
+Middle East and North Africa,Libya,Cereal,Offline,M,1480,205.7,117.11,131113.2,2014,3,wed,4 days
+Europe,Czech Republic,Snacks,Online,C,332,152.58,97.44,18306.48,2013,6,thur,50 days
+Europe,Montenegro,Beverages,Offline,M,3999,47.45,31.79,62624.34,2011,9,sat,0 days
+Europe,Montenegro,Clothes,Offline,M,1549,109.28,35.84,113758.56,2016,7,wed,19 days
+Asia,Philippines,Baby Food,Online,L,4079,255.28,159.42,391012.94,2014,2,sat,28 days
+Central America and the Caribbean,El Salvador,Clothes,Offline,L,9721,109.28,35.84,713910.24,2010,8,fri,37 days
+Australia and Oceania,Tonga,Household,Online,M,8635,668.27,502.54,1431078.55,2013,1,sun,23 days
+Sub-Saharan Africa,Democratic Republic of the Congo,Personal Care,Offline,H,8014,81.73,56.67,200830.84,2010,9,wed,48 days
+Middle East and North Africa,Afghanistan,Cereal,Online,M,7081,205.7,117.11,627305.79,2016,10,wed,38 days
+Australia and Oceania,Tuvalu,Snacks,Offline,L,2091,152.58,97.44,115297.74,2011,3,tue,7 days
+Sub-Saharan Africa,Sudan,Fruits,Online,L,1331,9.33,6.92,3207.71,2012,12,tue,36 days
+Sub-Saharan Africa,Niger,Clothes,Online,M,117,109.28,35.84,8592.48,2015,9,tue,37 days
+Sub-Saharan Africa,Gabon,Household,Offline,C,5798,668.27,502.54,960902.54,2013,11,sun,43 days
+Australia and Oceania,East Timor,Vegetables,Offline,C,2755,154.06,90.93,173923.15,2014,8,sun,18 days
+North America,United States of America,Clothes,Offline,C,7398,109.28,35.84,543309.12,2010,10,wed,47 days
+Middle East and North Africa,Jordan,Vegetables,Offline,L,3170,154.06,90.93,200122.1,2015,6,fri,46 days
+Europe,Cyprus,Snacks,Offline,H,5544,152.58,97.44,305696.16,2012,3,wed,50 days
+Sub-Saharan Africa,Malawi,Vegetables,Online,L,7025,154.06,90.93,443488.25,2012,6,thur,27 days
+Europe,Iceland,Personal Care,Online,M,2149,81.73,56.67,53853.94,2013,5,thur,14 days
+Middle East and North Africa,Israel,Personal Care,Online,M,2484,81.73,56.67,62249.04,2016,12,fri,32 days
+Middle East and North Africa,United Arab Emirates,Snacks,Offline,H,1629,152.58,97.44,89823.06,2011,3,sat,17 days
+Asia,China,Cosmetics,Offline,L,213,437.2,263.33,37034.31,2011,9,wed,43 days
+Sub-Saharan Africa,Kenya,Beverages,Online,M,897,47.45,31.79,14047.02,2012,5,thur,46 days
+Middle East and North Africa,Somalia,Clothes,Offline,M,3374,109.28,35.84,247786.56,2011,11,mon,2 days
+Australia and Oceania,Tonga,Beverages,Offline,L,9367,47.45,31.79,146687.22,2010,1,tue,2 days
+Asia,Bangladesh,Baby Food,Online,H,7632,255.28,159.42,731603.52,2011,8,tue,21 days
+Middle East and North Africa,Egypt,Beverages,Offline,M,8954,47.45,31.79,140219.64,2014,9,fri,50 days
+Sub-Saharan Africa,Eritrea,Cereal,Offline,C,1150,205.7,117.11,101878.5,2014,9,tue,16 days
+Sub-Saharan Africa,Swaziland,Office Supplies,Online,H,4071,651.21,524.96,513963.75,2015,9,fri,13 days
+Asia,Vietnam,Baby Food,Online,C,4594,255.28,159.42,440380.84,2011,6,sun,21 days
+Australia and Oceania,Marshall Islands,Snacks,Online,L,1632,152.58,97.44,89988.48,2012,1,wed,33 days
+Asia,Taiwan,Household,Online,C,1127,668.27,502.54,186777.71,2017,1,sun,30 days
+Europe,Ireland,Vegetables,Online,M,1052,154.06,90.93,66412.76,2012,3,sat,8 days
+Sub-Saharan Africa,Rwanda,Meat,Offline,H,6413,421.89,364.69,366823.6,2010,7,sat,0 days
+Europe,Sweden,Snacks,Online,M,4245,152.58,97.44,234069.3,2011,4,mon,3 days
+Sub-Saharan Africa,Gabon,Snacks,Offline,M,8615,152.58,97.44,475031.1,2010,10,sat,2 days
+Sub-Saharan Africa,South Africa,Baby Food,Online,L,5624,255.28,159.42,539116.64,2013,12,sat,45 days
+Europe,United Kingdom,Clothes,Offline,C,8399,109.28,35.84,616822.56,2015,9,fri,18 days
+Europe,Albania,Fruits,Offline,M,2104,9.33,6.92,5070.64,2011,9,fri,20 days
+Asia,Malaysia,Snacks,Offline,H,8929,152.58,97.44,492345.06,2010,3,wed,41 days
+Sub-Saharan Africa,Ghana,Household,Offline,L,3098,668.27,502.54,513431.54,2012,11,fri,31 days
+Central America and the Caribbean,Cuba,Clothes,Offline,H,5867,109.28,35.84,430872.48,2011,2,tue,30 days
+Central America and the Caribbean,Saint Lucia,Cosmetics,Online,C,522,437.2,263.33,90760.14,2012,8,sun,40 days
+Europe,Romania,Snacks,Offline,L,7379,152.58,97.44,406878.06,2014,8,wed,3 days
+Europe,Portugal,Office Supplies,Online,L,8788,651.21,524.96,1109485.0,2015,8,tue,24 days
+Europe,Macedonia,Beverages,Online,C,4129,47.45,31.79,64660.14,2011,3,sat,45 days
+Asia,China,Beverages,Offline,C,4811,47.45,31.79,75340.26,2013,4,mon,21 days
+Europe,Germany,Baby Food,Online,L,9279,255.28,159.42,889484.94,2015,11,thur,48 days
+Europe,Ireland,Household,Online,M,8006,668.27,502.54,1326834.38,2014,1,thur,32 days
+Europe,Poland,Office Supplies,Offline,M,8496,651.21,524.96,1072620.0,2015,4,wed,20 days
+Sub-Saharan Africa,Namibia,Household,Online,H,285,668.27,502.54,47233.05,2013,1,sun,20 days
+Asia,Uzbekistan,Personal Care,Offline,H,9942,81.73,56.67,249146.52,2013,2,mon,31 days
+Sub-Saharan Africa,Zimbabwe,Meat,Online,M,6064,421.89,364.69,346860.8,2014,11,thur,12 days
+Asia,Mongolia,Meat,Offline,M,4281,421.89,364.69,244873.2,2015,1,fri,14 days
+Europe,Norway,Personal Care,Online,H,2256,81.73,56.67,56535.36,2011,2,wed,47 days
+Middle East and North Africa,Oman,Snacks,Offline,M,4679,152.58,97.44,258000.06,2013,4,mon,12 days
+Europe,Serbia,Cosmetics,Online,H,8275,437.2,263.33,1438774.25,2017,7,tue,24 days
+Sub-Saharan Africa,Democratic Republic of the Congo,Fruits,Offline,H,6798,9.33,6.92,16383.18,2017,4,fri,34 days
+Europe,Bulgaria,Baby Food,Online,M,6035,255.28,159.42,578515.1,2014,5,thur,7 days
+Asia,Brunei,Baby Food,Online,H,8803,255.28,159.42,843855.58,2015,8,tue,49 days
+Europe,Serbia,Snacks,Offline,C,9951,152.58,97.44,548698.14,2013,9,thur,24 days
+Sub-Saharan Africa,Ghana,Cereal,Offline,M,1358,205.7,117.11,120305.22,2013,10,wed,39 days
+Sub-Saharan Africa,Malawi,Cereal,Offline,M,6936,205.7,117.11,614460.24,2014,7,tue,10 days
+Sub-Saharan Africa,Zimbabwe,Fruits,Offline,L,7627,9.33,6.92,18381.07,2011,11,fri,48 days
+Europe,Cyprus,Snacks,Offline,C,6405,152.58,97.44,353171.7,2010,3,wed,20 days
+Central America and the Caribbean,Nicaragua,Cereal,Online,M,3274,205.7,117.11,290043.66,2011,7,sun,35 days
+Europe,Estonia,Baby Food,Offline,C,271,255.28,159.42,25978.06,2011,1,fri,14 days
+Europe,Estonia,Clothes,Online,C,6463,109.28,35.84,474642.72,2016,6,wed,18 days
+Europe,Lithuania,Fruits,Offline,H,2949,9.33,6.92,7107.09,2013,12,mon,19 days
+Sub-Saharan Africa,Republic of the Congo,Meat,Offline,H,7859,421.89,364.69,449534.8,2017,3,tue,30 days
+Europe,Czech Republic,Baby Food,Online,C,1353,255.28,159.42,129698.58,2010,7,thur,25 days
+Sub-Saharan Africa,Cameroon,Snacks,Online,C,624,152.58,97.44,34407.36,2013,7,mon,16 days
+Asia,Vietnam,Office Supplies,Online,H,4897,651.21,524.96,618246.25,2016,8,mon,31 days
+Europe,Moldova ,Meat,Offline,L,424,421.89,364.69,24252.8,2014,12,mon,34 days
+Middle East and North Africa,Bahrain,Office Supplies,Offline,L,5494,651.21,524.96,693617.5,2012,5,sun,1 days
+Europe,Hungary,Household,Online,L,5423,668.27,502.54,898753.79,2017,7,mon,1 days
+Australia and Oceania,Marshall Islands,Personal Care,Offline,L,7559,81.73,56.67,189428.54,2017,7,sat,12 days
+Middle East and North Africa,Iraq,Office Supplies,Online,C,6283,651.21,524.96,793228.75,2011,9,thur,2 days
+Europe,Albania,Vegetables,Online,H,8006,154.06,90.93,505418.78,2015,11,mon,2 days
+Sub-Saharan Africa,Lesotho,Office Supplies,Online,H,6170,651.21,524.96,778962.5,2012,8,mon,31 days
+Middle East and North Africa,Lebanon,Clothes,Offline,H,6249,109.28,35.84,458926.56,2015,12,sat,22 days
+Europe,Hungary,Vegetables,Online,C,748,154.06,90.93,47221.24,2014,5,sat,45 days
+Asia,Japan,Beverages,Online,H,4203,47.45,31.79,65818.98,2012,10,wed,34 days
+Europe,Georgia,Office Supplies,Offline,L,8180,651.21,524.96,1032725.0,2013,3,tue,12 days
+Europe,Estonia,Office Supplies,Online,C,6280,651.21,524.96,792850.0,2011,2,tue,16 days
+Europe,Luxembourg,Household,Online,C,9131,668.27,502.54,1513280.63,2014,8,thur,17 days
+Sub-Saharan Africa,Swaziland,Personal Care,Online,H,9396,81.73,56.67,235463.76,2017,7,wed,5 days
+Europe,Romania,Clothes,Offline,C,6765,109.28,35.84,496821.6,2010,12,thur,3 days
+Sub-Saharan Africa,Ethiopia,Personal Care,Offline,C,2964,81.73,56.67,74277.84,2010,1,tue,2 days
+Sub-Saharan Africa,Chad,Office Supplies,Offline,C,6746,651.21,524.96,851682.5,2011,9,fri,29 days
+Middle East and North Africa,Morocco,Office Supplies,Online,C,8898,651.21,524.96,1123372.5,2014,3,fri,23 days
+North America,Mexico,Clothes,Online,H,7237,109.28,35.84,531485.28,2012,11,sat,13 days
+Sub-Saharan Africa,Nigeria,Personal Care,Offline,H,1612,81.73,56.67,40396.72,2011,11,thur,41 days
+Central America and the Caribbean,Trinidad and Tobago,Beverages,Offline,L,8904,47.45,31.79,139436.64,2012,7,wed,38 days
+Europe,Moldova ,Personal Care,Offline,H,8022,81.73,56.67,201031.32,2017,3,wed,46 days
+Australia and Oceania,Solomon Islands,Personal Care,Online,H,4909,81.73,56.67,123019.54,2010,7,sun,48 days
+Asia,India,Personal Care,Online,L,7539,81.73,56.67,188927.34,2015,12,wed,38 days
+Sub-Saharan Africa,Burkina Faso,Office Supplies,Offline,M,917,651.21,524.96,115771.25,2016,5,sat,0 days
+Australia and Oceania,Kiribati,Meat,Online,L,2079,421.89,364.69,118918.8,2010,11,tue,31 days
+Middle East and North Africa,Israel,Meat,Offline,M,5093,421.89,364.69,291319.6,2010,12,tue,15 days
+Sub-Saharan Africa,Comoros,Snacks,Offline,L,6056,152.58,97.44,333927.84,2014,1,wed,1 days
+Middle East and North Africa,Iran,Baby Food,Offline,H,8099,255.28,159.42,776370.14,2014,12,wed,25 days
+Asia,Vietnam,Cosmetics,Offline,L,6384,437.2,263.33,1109986.08,2016,12,fri,37 days
+Central America and the Caribbean,Belize,Household,Online,M,3101,668.27,502.54,513928.73,2013,3,wed,24 days
+Europe,Belarus,Personal Care,Offline,H,2476,81.73,56.67,62048.56,2012,12,fri,39 days
+North America,United States of America,Baby Food,Offline,C,5763,255.28,159.42,552441.18,2015,2,thur,20 days
+Europe,Poland,Beverages,Online,L,6247,47.45,31.79,97828.02,2012,3,tue,21 days
+North America,Canada,Vegetables,Offline,L,4247,154.06,90.93,268113.11,2016,10,thur,32 days
+Middle East and North Africa,Israel,Beverages,Offline,C,2111,47.45,31.79,33058.26,2011,12,wed,8 days
+Middle East and North Africa,Lebanon,Household,Online,L,9219,668.27,502.54,1527864.87,2016,3,mon,43 days
+Europe,Andorra,Baby Food,Online,L,6982,255.28,159.42,669294.52,2011,1,mon,41 days
+Europe,Slovakia,Clothes,Online,L,3843,109.28,35.84,282229.92,2013,4,wed,47 days
+Sub-Saharan Africa,Liberia,Fruits,Online,H,274,9.33,6.92,660.34,2010,5,mon,18 days
+Central America and the Caribbean,Antigua and Barbuda ,Cereal,Offline,M,3782,205.7,117.11,335047.38,2017,6,sun,1 days
+Asia,China,Personal Care,Online,L,3901,81.73,56.67,97759.06,2012,9,mon,4 days
+Sub-Saharan Africa,Niger,Baby Food,Online,H,7200,255.28,159.42,690192.0,2017,3,tue,26 days
+Europe,United Kingdom,Household,Offline,L,2278,668.27,502.54,377532.94,2015,1,tue,26 days
+Asia,Bangladesh,Personal Care,Offline,M,4763,81.73,56.67,119360.78,2010,7,sun,3 days
+Asia,Myanmar,Snacks,Online,L,2317,152.58,97.44,127759.38,2016,6,thur,20 days
+Australia and Oceania,Tonga,Meat,Offline,M,9633,421.89,364.69,551007.6,2012,8,fri,28 days
+Sub-Saharan Africa,Guinea-Bissau,Vegetables,Online,C,3434,154.06,90.93,216788.42,2010,3,wed,39 days
+Australia and Oceania,Nauru,Vegetables,Offline,M,7475,154.06,90.93,471896.75,2010,1,wed,6 days
+Sub-Saharan Africa,Swaziland,Cereal,Online,L,7542,205.7,117.11,668145.78,2014,2,sun,46 days
+Europe,Finland,Vegetables,Online,C,6452,154.06,90.93,407314.76,2014,1,mon,9 days
+Australia and Oceania,Papua New Guinea,Household,Offline,L,9055,668.27,502.54,1500685.15,2010,2,sat,15 days
+Sub-Saharan Africa,Mauritius ,Personal Care,Online,L,7230,81.73,56.67,181183.8,2015,2,tue,18 days
+Sub-Saharan Africa,Mozambique,Office Supplies,Online,M,4888,651.21,524.96,617110.0,2012,6,wed,38 days
+Europe,Bulgaria,Clothes,Online,L,2972,109.28,35.84,218263.68,2013,3,mon,29 days
+Europe,Spain,Household,Online,C,4455,668.27,502.54,738327.15,2014,4,wed,13 days
+Australia and Oceania,Vanuatu,Meat,Online,H,9341,421.89,364.69,534305.2,2017,7,tue,48 days
+Europe,Belgium,Fruits,Offline,L,9669,9.33,6.92,23302.29,2010,10,mon,5 days
+Europe,Belgium,Baby Food,Offline,L,4503,255.28,159.42,431657.58,2016,11,mon,45 days
+Sub-Saharan Africa,Guinea-Bissau,Clothes,Online,L,4944,109.28,35.84,363087.36,2014,3,sun,40 days
+Sub-Saharan Africa,Togo,Vegetables,Online,C,9121,154.06,90.93,575808.73,2016,8,wed,1 days
+Sub-Saharan Africa,Cote d'Ivoire,Personal Care,Offline,C,7196,81.73,56.67,180331.76,2016,1,sat,5 days
+Sub-Saharan Africa,Republic of the Congo,Fruits,Offline,C,6360,9.33,6.92,15327.6,2016,10,thur,14 days
+Middle East and North Africa,Libya,Baby Food,Offline,M,5837,255.28,159.42,559534.82,2016,12,fri,3 days
+Australia and Oceania,East Timor,Vegetables,Online,C,1882,154.06,90.93,118810.66,2011,8,thur,38 days
+Europe,Switzerland,Clothes,Offline,H,2782,109.28,35.84,204310.08,2012,3,thur,47 days
+Australia and Oceania,Palau,Snacks,Offline,M,3853,152.58,97.44,212454.42,2012,4,thur,45 days
+Middle East and North Africa,Jordan,Household,Online,M,2445,668.27,502.54,405209.85,2014,1,tue,11 days
+Europe,Slovenia,Household,Online,H,2936,668.27,502.54,486583.28,2016,12,mon,15 days
+Asia,South Korea,Baby Food,Online,L,1739,255.28,159.42,166700.54,2013,11,wed,36 days
+Europe,Norway,Clothes,Online,H,2296,109.28,35.84,168618.24,2010,4,tue,45 days
+Middle East and North Africa,Afghanistan,Baby Food,Online,M,80,255.28,159.42,7668.8,2012,7,sat,22 days
+Asia,Bangladesh,Personal Care,Online,L,7597,81.73,56.67,190380.82,2016,10,fri,40 days
+Sub-Saharan Africa,Guinea,Meat,Offline,M,9381,421.89,364.69,536593.2,2012,9,mon,32 days
+Central America and the Caribbean,Cuba,Office Supplies,Offline,H,7002,651.21,524.96,884002.5,2017,7,sat,21 days
+Europe,Russia,Cosmetics,Offline,C,4056,437.2,263.33,705216.72,2011,7,wed,43 days
+Sub-Saharan Africa,Seychelles ,Vegetables,Offline,L,1175,154.06,90.93,74177.75,2010,6,mon,21 days
+Asia,South Korea,Office Supplies,Offline,M,1020,651.21,524.96,128775.0,2015,7,sat,43 days
+Sub-Saharan Africa,Ghana,Baby Food,Offline,L,3282,255.28,159.42,314612.52,2010,8,thur,33 days
+Central America and the Caribbean,Costa Rica,Office Supplies,Online,H,9685,651.21,524.96,1222731.25,2010,6,sat,32 days
+Europe,Romania,Cereal,Online,C,8985,205.7,117.11,795981.15,2012,4,sat,15 days
+Europe,Czech Republic,Cereal,Online,L,1967,205.7,117.11,174256.53,2014,2,wed,25 days
+Europe,Liechtenstein,Household,Offline,L,6449,668.27,502.54,1068792.77,2011,7,sun,38 days
+Sub-Saharan Africa,Seychelles ,Baby Food,Online,M,2279,255.28,159.42,218464.94,2016,2,wed,47 days
+Middle East and North Africa,Somalia,Baby Food,Online,L,6338,255.28,159.42,607560.68,2014,1,thur,32 days
+Australia and Oceania,Solomon Islands,Personal Care,Offline,H,7536,81.73,56.67,188852.16,2015,5,sat,37 days
+Sub-Saharan Africa,Uganda,Clothes,Offline,C,1816,109.28,35.84,133367.04,2012,2,sun,43 days
+Sub-Saharan Africa,Equatorial Guinea,Cereal,Offline,M,7151,205.7,117.11,633507.09,2012,9,thur,46 days
+Central America and the Caribbean,Costa Rica,Office Supplies,Offline,C,8547,651.21,524.96,1079058.75,2015,2,tue,28 days
+Europe,Moldova ,Fruits,Offline,C,3039,9.33,6.92,7323.99,2010,11,mon,36 days
+Sub-Saharan Africa,Burkina Faso,Vegetables,Online,L,4695,154.06,90.93,296395.35,2011,7,tue,6 days
+Central America and the Caribbean,Guatemala,Beverages,Offline,H,9614,47.45,31.79,150555.24,2014,7,fri,35 days
+Sub-Saharan Africa,Swaziland,Meat,Online,M,924,421.89,364.69,52852.8,2014,8,sat,10 days
+Asia,Maldives,Vegetables,Online,H,3789,154.06,90.93,239199.57,2015,2,tue,31 days
+Asia,Thailand,Household,Online,H,399,668.27,502.54,66126.27,2016,9,tue,36 days
+Sub-Saharan Africa,Sudan,Household,Online,C,4979,668.27,502.54,825169.67,2013,6,thur,25 days
+Central America and the Caribbean,Costa Rica,Meat,Offline,L,8783,421.89,364.69,502387.6,2012,1,wed,39 days
+Europe,Denmark,Beverages,Online,C,5098,47.45,31.79,79834.68,2012,5,mon,29 days
+Sub-Saharan Africa,Angola,Cereal,Offline,C,4240,205.7,117.11,375621.6,2011,10,wed,39 days
+Australia and Oceania,Papua New Guinea,Household,Online,M,8559,668.27,502.54,1418483.07,2016,4,tue,21 days
+Asia,North Korea,Meat,Online,M,7435,421.89,364.69,425282.0,2014,1,sat,19 days
+Central America and the Caribbean,El Salvador,Fruits,Online,C,2278,9.33,6.92,5489.98,2016,11,sat,39 days
+Sub-Saharan Africa,Burkina Faso,Household,Online,M,1531,668.27,502.54,253732.63,2011,2,sun,24 days
+Middle East and North Africa,Yemen,Baby Food,Online,C,5668,255.28,159.42,543334.48,2014,10,fri,33 days
+Sub-Saharan Africa,Republic of the Congo,Beverages,Online,L,2193,47.45,31.79,34342.38,2012,6,sun,10 days
+Europe,Andorra,Household,Online,M,642,668.27,502.54,106398.66,2012,11,mon,17 days
+Central America and the Caribbean,Dominican Republic,Household,Offline,H,7584,668.27,502.54,1256896.32,2014,2,sun,49 days
+Middle East and North Africa,Israel,Baby Food,Offline,M,1616,255.28,159.42,154909.76,2015,9,fri,17 days
+Australia and Oceania,Solomon Islands,Snacks,Offline,L,8369,152.58,97.44,461466.66,2014,3,mon,20 days
+Sub-Saharan Africa,Liberia,Fruits,Online,M,5503,9.33,6.92,13262.23,2014,10,tue,22 days
+Sub-Saharan Africa,Mali,Vegetables,Online,C,7712,154.06,90.93,486858.56,2012,6,mon,21 days
+Asia,Uzbekistan,Clothes,Online,C,1718,109.28,35.84,126169.92,2010,11,wed,32 days
+Middle East and North Africa,Tunisia ,Personal Care,Offline,H,1276,81.73,56.67,31976.56,2010,11,sun,6 days
+Europe,Vatican City,Vegetables,Online,C,2173,154.06,90.93,137181.49,2014,4,sun,11 days
+Sub-Saharan Africa,Djibouti,Snacks,Offline,H,7227,152.58,97.44,398496.78,2012,12,fri,49 days
+Europe,Ukraine,Household,Offline,M,1285,668.27,502.54,212963.05,2014,8,sun,35 days
+Australia and Oceania,East Timor,Fruits,Offline,M,6227,9.33,6.92,15007.07,2016,11,fri,27 days
+Sub-Saharan Africa,Uganda,Cereal,Online,C,5965,205.7,117.11,528439.35,2010,10,tue,43 days
+Sub-Saharan Africa,Guinea,Meat,Online,H,1441,421.89,364.69,82425.2,2014,12,wed,39 days
+Sub-Saharan Africa,Equatorial Guinea,Clothes,Offline,H,5629,109.28,35.84,413393.76,2011,3,sat,35 days
+Europe,Malta,Cosmetics,Online,M,8534,437.2,263.33,1483806.58,2016,7,mon,40 days
+Europe,Cyprus,Household,Offline,L,2191,668.27,502.54,363114.43,2011,1,tue,24 days
+Europe,Czech Republic,Office Supplies,Online,L,5668,651.21,524.96,715585.0,2010,2,tue,50 days
+Middle East and North Africa,Libya,Vegetables,Online,C,64,154.06,90.93,4040.32,2015,1,thur,38 days
+Asia,Vietnam,Office Supplies,Offline,C,3509,651.21,524.96,443011.25,2016,7,mon,1 days
+Middle East and North Africa,Jordan,Vegetables,Online,C,6163,154.06,90.93,389070.19,2014,6,sat,14 days
+Sub-Saharan Africa,Mali,Beverages,Offline,H,5220,47.45,31.79,81745.2,2012,12,thur,39 days
+Europe,Czech Republic,Household,Online,L,9902,668.27,502.54,1641058.46,2010,2,fri,3 days
+Europe,Slovakia,Vegetables,Online,M,6465,154.06,90.93,408135.45,2016,4,sat,21 days
+Sub-Saharan Africa,Zimbabwe,Vegetables,Offline,C,3195,154.06,90.93,201700.35,2012,7,sat,19 days
+Central America and the Caribbean,Honduras,Cereal,Online,M,5409,205.7,117.11,479183.31,2015,2,sat,15 days
+Europe,Switzerland,Beverages,Offline,L,455,47.45,31.79,7125.3,2011,2,wed,38 days
+Sub-Saharan Africa,South Africa,Cosmetics,Offline,L,2715,437.2,263.33,472057.05,2015,1,tue,5 days
+Sub-Saharan Africa,Uganda,Beverages,Online,M,8598,47.45,31.79,134644.68,2012,5,wed,49 days
+Middle East and North Africa,Iran,Vegetables,Offline,M,1547,154.06,90.93,97662.11,2015,12,tue,36 days
+Middle East and North Africa,Algeria,Vegetables,Online,C,7036,154.06,90.93,444182.68,2017,2,fri,0 days
+Sub-Saharan Africa,Central African Republic,Baby Food,Online,L,7570,255.28,159.42,725660.2,2012,1,mon,13 days
+Central America and the Caribbean,The Bahamas,Cosmetics,Offline,C,7685,437.2,263.33,1336190.95,2013,2,wed,8 days
+Sub-Saharan Africa,South Africa,Household,Offline,H,8948,668.27,502.54,1482952.04,2014,9,sat,8 days
+Sub-Saharan Africa,Benin,Cereal,Online,M,4957,205.7,117.11,439140.63,2012,6,mon,49 days
+Europe,Hungary,Cosmetics,Online,M,6344,437.2,263.33,1103031.28,2014,4,fri,2 days
+Europe,Austria,Office Supplies,Offline,C,5768,651.21,524.96,728210.0,2014,2,sat,8 days
+Asia,Tajikistan,Office Supplies,Offline,C,2923,651.21,524.96,369028.75,2010,9,tue,41 days
+Europe,Portugal,Office Supplies,Online,C,9532,651.21,524.96,1203415.0,2011,5,mon,39 days
+Europe,Belgium,Beverages,Offline,M,4349,47.45,31.79,68105.34,2013,4,sat,30 days
+Europe,Slovenia,Beverages,Offline,L,8161,47.45,31.79,127801.26,2014,8,sat,4 days
+Europe,Czech Republic,Snacks,Online,M,8786,152.58,97.44,484460.04,2010,9,sat,41 days
+Australia and Oceania,Marshall Islands,Personal Care,Offline,C,6071,81.73,56.67,152139.26,2013,4,fri,31 days
+Sub-Saharan Africa,Sudan,Fruits,Online,C,6897,9.33,6.92,16621.77,2016,1,wed,4 days
+Central America and the Caribbean,Dominican Republic,Clothes,Online,H,175,109.28,35.84,12852.0,2013,12,sun,5 days
+Sub-Saharan Africa,Tanzania,Cereal,Offline,C,1848,205.7,117.11,163714.32,2014,2,thur,16 days
+Europe,Switzerland,Clothes,Offline,H,9888,109.28,35.84,726174.72,2017,6,thur,31 days
+North America,Greenland,Household,Online,L,9302,668.27,502.54,1541620.46,2014,4,wed,33 days
+Australia and Oceania,Tonga,Fruits,Offline,L,7124,9.33,6.92,17168.84,2011,5,thur,19 days
+Middle East and North Africa,Saudi Arabia,Vegetables,Online,M,7422,154.06,90.93,468550.86,2012,8,mon,25 days
+Central America and the Caribbean,Belize,Cosmetics,Offline,C,6296,437.2,263.33,1094685.52,2015,7,fri,48 days
+Sub-Saharan Africa,Angola,Cosmetics,Online,H,6874,437.2,263.33,1195182.38,2014,10,sun,24 days
+Asia,Malaysia,Household,Online,H,4319,668.27,502.54,715787.87,2013,10,thur,3 days
+Sub-Saharan Africa,Ethiopia,Beverages,Online,C,822,47.45,31.79,12872.52,2013,2,thur,25 days
+North America,Greenland,Baby Food,Offline,C,607,255.28,159.42,58187.02,2014,7,mon,39 days
+Sub-Saharan Africa,Benin,Cereal,Offline,C,4928,205.7,117.11,436571.52,2016,12,sun,35 days
+Middle East and North Africa,Yemen,Cereal,Offline,H,7073,205.7,117.11,626597.07,2012,11,fri,16 days
+Sub-Saharan Africa,Rwanda,Baby Food,Offline,M,7358,255.28,159.42,705337.88,2014,11,sun,24 days
+Sub-Saharan Africa,Mauritania,Meat,Offline,M,8132,421.89,364.69,465150.4,2013,8,fri,12 days
+Australia and Oceania,New Zealand,Personal Care,Online,L,8775,81.73,56.67,219901.5,2012,5,tue,24 days
+Australia and Oceania,Samoa ,Clothes,Offline,M,699,109.28,35.84,51334.56,2015,7,tue,15 days
+Australia and Oceania,Fiji,Clothes,Online,H,2344,109.28,35.84,172143.36,2017,2,tue,29 days
+Sub-Saharan Africa,Malawi,Beverages,Online,H,4186,47.45,31.79,65552.76,2012,1,fri,25 days
+Australia and Oceania,Marshall Islands,Beverages,Offline,M,3729,47.45,31.79,58396.14,2015,8,sun,49 days
+Central America and the Caribbean,Grenada,Baby Food,Online,M,508,255.28,159.42,48696.88,2013,6,sat,7 days
+Europe,Luxembourg,Meat,Online,C,1093,421.89,364.69,62519.6,2011,8,tue,50 days
+Sub-Saharan Africa,Zimbabwe,Meat,Offline,M,4080,421.89,364.69,233376.0,2016,10,sat,37 days
+Asia,China,Vegetables,Online,H,5100,154.06,90.93,321963.0,2010,9,sat,16 days
+North America,United States of America,Beverages,Online,L,1815,47.45,31.79,28422.9,2013,7,fri,1 days
+Sub-Saharan Africa,Central African Republic,Vegetables,Online,L,8916,154.06,90.93,562867.08,2012,10,mon,43 days
+Central America and the Caribbean,Antigua and Barbuda ,Vegetables,Online,M,3127,154.06,90.93,197407.51,2012,1,mon,2 days
+Central America and the Caribbean,Guatemala,Baby Food,Offline,H,8203,255.28,159.42,786339.58,2012,2,tue,35 days
+Middle East and North Africa,Qatar,Clothes,Offline,L,9930,109.28,35.84,729259.2,2015,1,fri,4 days
+Middle East and North Africa,Israel,Personal Care,Online,L,1126,81.73,56.67,28217.56,2012,5,sat,15 days
+Asia,Thailand,Snacks,Offline,L,6639,152.58,97.44,366074.46,2012,1,thur,33 days
+Asia,Singapore,Cereal,Online,M,8349,205.7,117.11,739637.91,2011,7,fri,13 days
+Asia,North Korea,Snacks,Online,C,167,152.58,97.44,9208.38,2017,3,sun,26 days
+Europe,Austria,Office Supplies,Online,L,3036,651.21,524.96,383295.0,2017,3,wed,26 days
+Asia,Japan,Baby Food,Offline,L,9929,255.28,159.42,951793.94,2016,3,tue,34 days
+Sub-Saharan Africa,Zimbabwe,Beverages,Offline,L,851,47.45,31.79,13326.66,2015,12,thur,8 days
+Europe,Lithuania,Fruits,Offline,H,7838,9.33,6.92,18889.58,2011,10,mon,22 days
+Europe,Luxembourg,Baby Food,Offline,H,9958,255.28,159.42,954573.88,2011,6,wed,33 days
+Sub-Saharan Africa,Central African Republic,Cosmetics,Offline,H,8309,437.2,263.33,1444685.83,2016,3,sat,14 days
+Europe,Norway,Household,Offline,M,1021,668.27,502.54,169210.33,2016,12,thur,29 days
+Sub-Saharan Africa,Democratic Republic of the Congo,Fruits,Offline,M,8256,9.33,6.92,19896.96,2013,4,wed,0 days
+Australia and Oceania,New Zealand,Household,Offline,L,7205,668.27,502.54,1194084.65,2017,3,tue,43 days
+Europe,Ukraine,Personal Care,Offline,M,7092,81.73,56.67,177725.52,2011,6,thur,31 days
+Asia,Taiwan,Personal Care,Offline,H,4173,81.73,56.67,104575.38,2013,11,fri,31 days
+Europe,Italy,Cereal,Offline,C,6733,205.7,117.11,596476.47,2013,5,fri,20 days
+Europe,Finland,Personal Care,Online,L,89,81.73,56.67,2230.34,2010,11,fri,14 days
+Sub-Saharan Africa,Sudan,Office Supplies,Online,H,1591,651.21,524.96,200863.75,2016,3,tue,43 days
+Europe,Croatia,Snacks,Offline,M,5618,152.58,97.44,309776.52,2013,8,sun,24 days
+Sub-Saharan Africa,Mauritania,Beverages,Online,L,8581,47.45,31.79,134378.46,2011,4,mon,39 days
+Australia and Oceania,New Zealand,Baby Food,Offline,L,3923,255.28,159.42,376058.78,2014,7,sat,5 days
+Middle East and North Africa,Pakistan,Beverages,Online,L,7117,47.45,31.79,111452.22,2014,9,sun,7 days
+Europe,Poland,Household,Online,C,668,668.27,502.54,110707.64,2015,6,wed,15 days
+Europe,Lithuania,Cereal,Offline,M,9113,205.7,117.11,807320.67,2013,12,wed,13 days
+Middle East and North Africa,Pakistan,Cereal,Offline,M,4019,205.7,117.11,356043.21,2012,5,thur,23 days
+Australia and Oceania,East Timor,Cosmetics,Offline,C,8984,437.2,263.33,1562048.08,2013,10,fri,32 days
+Australia and Oceania,Marshall Islands,Fruits,Online,L,4638,9.33,6.92,11177.58,2011,1,sat,12 days
+Central America and the Caribbean,Cuba,Household,Offline,L,3642,668.27,502.54,603588.66,2013,2,fri,1 days
+North America,Greenland,Baby Food,Offline,H,5689,255.28,159.42,545347.54,2011,3,fri,26 days
+Europe,Luxembourg,Personal Care,Offline,C,2503,81.73,56.67,62725.18,2012,10,tue,24 days
+Middle East and North Africa,Israel,Beverages,Online,C,2838,47.45,31.79,44443.08,2014,10,wed,23 days
+Sub-Saharan Africa,Djibouti,Baby Food,Online,H,7480,255.28,159.42,717032.8,2015,7,sat,12 days
+Europe,Bulgaria,Cereal,Online,L,4247,205.7,117.11,376241.73,2010,5,wed,21 days
+Asia,Mongolia,Vegetables,Online,C,2988,154.06,90.93,188632.44,2010,11,fri,43 days
+Central America and the Caribbean,Dominican Republic,Clothes,Offline,L,582,109.28,35.84,42742.08,2010,12,sat,5 days
+Middle East and North Africa,Yemen,Cosmetics,Online,L,5940,437.2,263.33,1032787.8,2012,12,sat,2 days
+Australia and Oceania,Federated States of Micronesia,Personal Care,Online,M,5005,81.73,56.67,125425.3,2016,8,sat,17 days
+Europe,Finland,Personal Care,Online,M,5751,81.73,56.67,144120.06,2015,2,mon,45 days
+Central America and the Caribbean,The Bahamas,Cereal,Offline,L,3181,205.7,117.11,281804.79,2013,12,wed,16 days
+Central America and the Caribbean,Grenada,Meat,Online,L,4334,421.89,364.69,247904.8,2012,5,fri,31 days
+Sub-Saharan Africa,Sao Tome and Principe,Meat,Offline,M,3275,421.89,364.69,187330.0,2014,3,thur,22 days
+Central America and the Caribbean,El Salvador,Personal Care,Offline,C,6103,81.73,56.67,152941.18,2017,1,tue,38 days
+Europe,Sweden,Baby Food,Online,M,5949,255.28,159.42,570271.14,2015,6,sat,15 days
+Asia,Turkmenistan,Cosmetics,Offline,H,7974,437.2,263.33,1386439.38,2012,11,wed,4 days
+Europe,Monaco,Vegetables,Online,H,4369,154.06,90.93,275814.97,2010,1,thur,43 days
+Middle East and North Africa,Turkey,Meat,Online,H,9359,421.89,364.69,535334.8,2016,1,tue,31 days
+Sub-Saharan Africa,Mozambique,Beverages,Online,M,4199,47.45,31.79,65756.34,2014,10,mon,9 days
+Middle East and North Africa,Yemen,Office Supplies,Offline,C,2173,651.21,524.96,274341.25,2013,12,sun,31 days
+Asia,Philippines,Cereal,Offline,M,3601,205.7,117.11,319012.59,2010,10,mon,37 days
+Sub-Saharan Africa,Democratic Republic of the Congo,Personal Care,Offline,M,830,81.73,56.67,20799.8,2011,5,sun,31 days
+Australia and Oceania,Fiji,Snacks,Online,H,3241,152.58,97.44,178708.74,2011,3,wed,6 days
+Europe,Macedonia,Office Supplies,Offline,H,2244,651.21,524.96,283305.0,2014,9,tue,19 days
+Middle East and North Africa,Tunisia ,Cereal,Online,H,6283,205.7,117.11,556610.97,2015,12,mon,13 days
+Europe,Liechtenstein,Cereal,Offline,L,5829,205.7,117.11,516391.11,2017,6,thur,46 days
+Middle East and North Africa,Qatar,Cosmetics,Online,M,8390,437.2,263.33,1458769.3,2011,8,wed,14 days
+Australia and Oceania,Tonga,Meat,Offline,C,3499,421.89,364.69,200142.8,2014,7,mon,26 days
+Europe,Belgium,Meat,Online,L,7726,421.89,364.69,441927.2,2017,1,wed,29 days
+Sub-Saharan Africa,Chad,Fruits,Offline,C,9669,9.33,6.92,23302.29,2010,11,thur,34 days
+Asia,Thailand,Baby Food,Online,H,4957,255.28,159.42,475178.02,2015,3,wed,40 days
+Europe,Iceland,Clothes,Offline,H,1251,109.28,35.84,91873.44,2012,10,sat,9 days
+Central America and the Caribbean,Saint Lucia,Meat,Offline,L,3245,421.89,364.69,185614.0,2013,7,sun,42 days
+Asia,Japan,Cosmetics,Offline,C,7661,437.2,263.33,1332018.07,2013,8,thur,2 days
+Asia,India,Personal Care,Offline,L,8254,81.73,56.67,206845.24,2013,11,mon,42 days
+Australia and Oceania,Vanuatu,Office Supplies,Online,L,812,651.21,524.96,102515.0,2016,3,mon,27 days
+Sub-Saharan Africa,Chad,Meat,Offline,M,8150,421.89,364.69,466180.0,2012,3,sat,10 days
+Sub-Saharan Africa,Malawi,Cosmetics,Offline,H,5118,437.2,263.33,889866.66,2017,6,mon,9 days
+Europe,Finland,Cosmetics,Online,L,3596,437.2,263.33,625236.52,2014,4,thur,28 days
+Middle East and North Africa,Turkey,Clothes,Online,C,7494,109.28,35.84,550359.36,2016,6,mon,37 days
+Sub-Saharan Africa,South Africa,Meat,Online,L,7755,421.89,364.69,443586.0,2012,5,sat,42 days
+Europe,Lithuania,Office Supplies,Offline,M,7353,651.21,524.96,928316.25,2014,2,mon,12 days
+Europe,Russia,Beverages,Offline,L,6293,47.45,31.79,98548.38,2015,11,sat,6 days
+Central America and the Caribbean,The Bahamas,Baby Food,Online,C,6610,255.28,159.42,633634.6,2013,1,thur,48 days
+Central America and the Caribbean,The Bahamas,Snacks,Online,L,7373,152.58,97.44,406547.22,2013,4,tue,44 days
+Middle East and North Africa,Turkey,Cosmetics,Offline,C,9679,437.2,263.33,1682887.73,2010,5,fri,19 days
+Sub-Saharan Africa,Mauritius ,Cosmetics,Offline,H,1659,437.2,263.33,288450.33,2010,4,fri,35 days
+Europe,Bulgaria,Vegetables,Online,H,3473,154.06,90.93,219250.49,2012,8,fri,15 days
+Middle East and North Africa,Iran,Household,Offline,L,2315,668.27,502.54,383664.95,2014,4,fri,24 days
+Sub-Saharan Africa,Ghana,Household,Online,M,7408,668.27,502.54,1227727.84,2013,2,mon,38 days
+Sub-Saharan Africa,Malawi,Baby Food,Online,M,5006,255.28,159.42,479875.16,2011,12,tue,20 days
+Sub-Saharan Africa,Zimbabwe,Baby Food,Offline,M,3395,255.28,159.42,325444.7,2014,8,wed,50 days
+Asia,Tajikistan,Vegetables,Online,H,7894,154.06,90.93,498348.22,2014,8,wed,42 days
+Europe,Czech Republic,Cereal,Online,H,5851,205.7,117.11,518340.09,2014,3,sat,26 days
+Sub-Saharan Africa,Mauritius ,Household,Online,L,1646,668.27,502.54,272791.58,2012,9,wed,21 days
+Sub-Saharan Africa,Lesotho,Fruits,Online,H,1689,9.33,6.92,4070.49,2010,9,wed,6 days
+Sub-Saharan Africa,Mali,Beverages,Online,L,9424,47.45,31.79,147579.84,2013,8,mon,2 days
+Europe,Georgia,Personal Care,Online,C,323,81.73,56.67,8094.38,2012,9,mon,42 days
+Europe,Albania,Office Supplies,Offline,M,6892,651.21,524.96,870115.0,2011,8,tue,45 days
+Europe,Cyprus,Cosmetics,Offline,L,3667,437.2,263.33,637581.29,2015,4,mon,46 days
+Central America and the Caribbean,Saint Kitts and Nevis ,Household,Offline,C,2215,668.27,502.54,367091.95,2010,7,sat,16 days
+Middle East and North Africa,Tunisia ,Meat,Offline,C,6135,421.89,364.69,350922.0,2015,8,sat,43 days
+Central America and the Caribbean,Cuba,Meat,Online,M,6057,421.89,364.69,346460.4,2015,10,fri,50 days
+Australia and Oceania,Kiribati,Cereal,Offline,L,4641,205.7,117.11,411146.19,2012,7,mon,23 days
+Asia,Cambodia,Snacks,Online,C,1581,152.58,97.44,87176.34,2012,3,sat,40 days
+Europe,Moldova ,Baby Food,Online,M,8600,255.28,159.42,824396.0,2014,8,sun,38 days
+Asia,Uzbekistan,Cereal,Offline,C,4452,205.7,117.11,394402.68,2016,10,fri,44 days
+Asia,India,Cosmetics,Offline,L,9924,437.2,263.33,1725485.88,2016,12,fri,49 days
+Europe,Germany,Personal Care,Offline,C,2834,81.73,56.67,71020.04,2010,6,fri,31 days
+Europe,Austria,Vegetables,Online,C,3030,154.06,90.93,191283.9,2016,7,thur,33 days
+Europe,Germany,Office Supplies,Offline,L,7391,651.21,524.96,933113.75,2013,12,sun,34 days
+Asia,Bhutan,Clothes,Online,M,4829,109.28,35.84,354641.76,2012,7,wed,28 days
+Asia,Kyrgyzstan,Fruits,Online,C,1287,9.33,6.92,3101.67,2012,1,fri,48 days
+Middle East and North Africa,Somalia,Personal Care,Online,C,4738,81.73,56.67,118734.28,2013,3,tue,36 days
+Central America and the Caribbean,Saint Lucia,Household,Online,H,186,668.27,502.54,30825.78,2014,2,sun,28 days
+Europe,Armenia,Snacks,Offline,H,4668,152.58,97.44,257393.52,2013,10,fri,20 days
+North America,Canada,Beverages,Online,C,2252,47.45,31.79,35266.32,2016,4,fri,47 days
+Sub-Saharan Africa,Burundi,Cosmetics,Offline,H,9036,437.2,263.33,1571089.32,2011,5,thur,6 days
+Europe,Liechtenstein,Cereal,Online,L,8149,205.7,117.11,721919.91,2016,8,wed,36 days
+Middle East and North Africa,Tunisia ,Snacks,Offline,L,4754,152.58,97.44,262135.56,2012,7,mon,33 days
+Middle East and North Africa,Iraq,Beverages,Online,L,1042,47.45,31.79,16317.72,2014,12,wed,38 days
+Asia,Indonesia,Cosmetics,Offline,C,1237,437.2,263.33,215077.19,2010,5,sun,1 days
+Asia,Kazakhstan,Beverages,Online,H,6594,47.45,31.79,103262.04,2013,2,mon,12 days
+Europe,Denmark,Beverages,Offline,C,399,47.45,31.79,6248.34,2015,6,sun,24 days
+Europe,Luxembourg,Vegetables,Offline,L,2969,154.06,90.93,187432.97,2014,10,mon,28 days
+Sub-Saharan Africa,Cape Verde,Snacks,Offline,C,6653,152.58,97.44,366846.42,2017,2,sun,28 days
+Australia and Oceania,Palau,Vegetables,Offline,C,832,154.06,90.93,52524.16,2010,6,mon,17 days
+Australia and Oceania,Australia,Vegetables,Online,M,6915,154.06,90.93,436543.95,2014,5,sun,1 days
+Central America and the Caribbean,Nicaragua,Meat,Offline,L,3346,421.89,364.69,191391.2,2015,3,fri,25 days
+Asia,Laos,Office Supplies,Offline,M,598,651.21,524.96,75497.5,2015,8,sun,45 days
+Central America and the Caribbean,Cuba,Personal Care,Online,L,6176,81.73,56.67,154770.56,2015,8,sat,7 days
+Europe,Moldova ,Cosmetics,Offline,L,9615,437.2,263.33,1671760.05,2016,2,tue,22 days
+Middle East and North Africa,Syria,Household,Online,C,7485,668.27,502.54,1240489.05,2015,6,tue,36 days
+Central America and the Caribbean,The Bahamas,Cereal,Offline,M,8382,205.7,117.11,742561.38,2012,11,mon,9 days
+Europe,Belarus,Snacks,Offline,M,7938,152.58,97.44,437701.32,2012,9,thur,42 days
+Middle East and North Africa,United Arab Emirates,Clothes,Offline,C,3812,109.28,35.84,279953.28,2012,6,fri,45 days
+Sub-Saharan Africa,Angola,Beverages,Offline,H,698,47.45,31.79,10930.68,2014,10,wed,19 days
+Central America and the Caribbean,Cuba,Cosmetics,Offline,C,5320,437.2,263.33,924988.4,2015,9,thur,30 days
+Europe,Ukraine,Office Supplies,Online,H,1431,651.21,524.96,180663.75,2016,1,sat,27 days
+Sub-Saharan Africa,Mozambique,Fruits,Offline,H,4818,9.33,6.92,11611.38,2010,3,mon,27 days
+Europe,Armenia,Personal Care,Online,M,8299,81.73,56.67,207972.94,2012,7,wed,33 days
+North America,Greenland,Clothes,Online,H,6722,109.28,35.84,493663.68,2015,10,mon,13 days
+Central America and the Caribbean,Saint Kitts and Nevis ,Office Supplies,Online,M,1968,651.21,524.96,248460.0,2017,6,mon,21 days
+Europe,Vatican City,Beverages,Offline,M,7946,47.45,31.79,124434.36,2016,4,sun,26 days
+Europe,Ukraine,Clothes,Online,C,5600,109.28,35.84,411264.0,2015,8,tue,35 days
+Sub-Saharan Africa,Niger,Cereal,Offline,L,7903,205.7,117.11,700126.77,2012,6,fri,18 days
+Asia,Myanmar,Cosmetics,Online,L,4860,437.2,263.33,845008.2,2016,4,sat,32 days
+Sub-Saharan Africa,Guinea,Baby Food,Offline,C,8508,255.28,159.42,815576.88,2014,9,sat,0 days
+Sub-Saharan Africa,Guinea-Bissau,Snacks,Online,L,7913,152.58,97.44,436322.82,2015,8,fri,33 days
+Sub-Saharan Africa,South Sudan,Office Supplies,Online,C,4174,651.21,524.96,526967.5,2012,7,wed,1 days
+Middle East and North Africa,Turkey,Snacks,Offline,H,5421,152.58,97.44,298913.94,2011,8,thur,18 days
+Australia and Oceania,Palau,Household,Online,M,1816,668.27,502.54,300965.68,2012,6,fri,8 days
+Europe,Poland,Beverages,Offline,L,550,47.45,31.79,8613.0,2011,11,sat,34 days
+Asia,Malaysia,Beverages,Offline,L,848,47.45,31.79,13279.68,2015,5,tue,22 days
+North America,United States of America,Personal Care,Offline,C,8963,81.73,56.67,224612.78,2010,7,thur,37 days
+Europe,Switzerland,Cosmetics,Online,C,3183,437.2,263.33,553428.21,2016,5,fri,6 days
+Australia and Oceania,Papua New Guinea,Cosmetics,Offline,H,8825,437.2,263.33,1534402.75,2011,4,thur,47 days
+Sub-Saharan Africa,Namibia,Beverages,Offline,H,3237,47.45,31.79,50691.42,2012,8,mon,37 days
+Europe,Ireland,Clothes,Online,C,799,109.28,35.84,58678.56,2012,3,fri,46 days
+Sub-Saharan Africa,Mozambique,Household,Online,C,7922,668.27,502.54,1312913.06,2010,8,thur,3 days
+Sub-Saharan Africa,Democratic Republic of the Congo,Baby Food,Offline,L,8049,255.28,159.42,771577.14,2013,2,sun,29 days
+North America,United States of America,Meat,Online,M,6654,421.89,364.69,380608.8,2011,3,sat,4 days
+Middle East and North Africa,Azerbaijan,Office Supplies,Offline,M,6240,651.21,524.96,787800.0,2015,12,sun,2 days
+Europe,Belgium,Office Supplies,Offline,C,1345,651.21,524.96,169806.25,2017,2,thur,6 days
+Asia,Taiwan,Office Supplies,Offline,L,3536,651.21,524.96,446420.0,2016,9,mon,38 days
+Central America and the Caribbean,Panama,Baby Food,Online,M,6411,255.28,159.42,614558.46,2010,4,thur,33 days
+Europe,Andorra,Beverages,Offline,H,600,47.45,31.79,9396.0,2013,6,mon,15 days
+Europe,Georgia,Household,Offline,H,8765,668.27,502.54,1452623.45,2012,7,tue,23 days
+Central America and the Caribbean,Barbados,Snacks,Online,C,597,152.58,97.44,32918.58,2013,9,fri,31 days
+Europe,Sweden,Personal Care,Offline,C,7821,81.73,56.67,195994.26,2016,12,wed,29 days
+Middle East and North Africa,Algeria,Meat,Offline,M,9191,421.89,364.69,525725.2,2011,9,thur,43 days
+Europe,Italy,Personal Care,Online,L,5494,81.73,56.67,137679.64,2011,3,sun,12 days
+Europe,Russia,Fruits,Offline,L,4546,9.33,6.92,10955.86,2011,1,fri,18 days
+Central America and the Caribbean,Antigua and Barbuda ,Office Supplies,Offline,M,6197,651.21,524.96,782371.25,2015,2,sat,0 days
+Middle East and North Africa,Jordan,Fruits,Online,C,7325,9.33,6.92,17653.25,2017,5,sun,41 days
+Sub-Saharan Africa,Mali,Meat,Online,L,6844,421.89,364.69,391476.8,2012,7,fri,32 days
+Middle East and North Africa,Somalia,Cereal,Offline,C,694,205.7,117.11,61481.46,2015,6,wed,5 days
+Middle East and North Africa,Kuwait,Snacks,Online,L,6850,152.58,97.44,377709.0,2011,10,tue,6 days
+Sub-Saharan Africa,Liberia,Office Supplies,Offline,C,316,651.21,524.96,39895.0,2014,9,tue,18 days
+Asia,China,Office Supplies,Online,C,8128,651.21,524.96,1026160.0,2015,9,tue,38 days
+Europe,Andorra,Meat,Offline,M,4355,421.89,364.69,249106.0,2011,3,wed,0 days
+Sub-Saharan Africa,Niger,Beverages,Online,C,5093,47.45,31.79,79756.38,2013,10,thur,3 days
+Europe,Hungary,Vegetables,Offline,M,3475,154.06,90.93,219376.75,2010,8,wed,33 days
+Europe,Monaco,Clothes,Offline,M,4659,109.28,35.84,342156.96,2012,7,wed,40 days
+Australia and Oceania,Tuvalu,Household,Online,L,840,668.27,502.54,139213.2,2012,9,sat,12 days
+Sub-Saharan Africa,South Sudan,Baby Food,Online,C,6240,255.28,159.42,598166.4,2012,11,thur,50 days
+Europe,Cyprus,Cereal,Offline,M,2114,205.7,117.11,187279.26,2011,11,fri,44 days
+Europe,Poland,Household,Offline,M,1749,668.27,502.54,289861.77,2017,6,thur,46 days
+Sub-Saharan Africa,Liberia,Snacks,Online,H,5462,152.58,97.44,301174.68,2011,9,fri,48 days
+Sub-Saharan Africa,Cote d'Ivoire,Vegetables,Online,C,5602,154.06,90.93,353654.26,2015,10,thur,3 days
+Asia,Kyrgyzstan,Beverages,Online,C,1547,47.45,31.79,24226.02,2010,4,fri,6 days
+Europe,Slovakia,Vegetables,Offline,L,4711,154.06,90.93,297405.43,2014,7,wed,11 days
+Asia,Malaysia,Cosmetics,Offline,M,3534,437.2,263.33,614456.58,2014,12,mon,14 days
+Sub-Saharan Africa,Liberia,Beverages,Online,L,8491,47.45,31.79,132969.06,2014,5,sun,22 days
+Australia and Oceania,Vanuatu,Cosmetics,Online,H,7086,437.2,263.33,1232042.82,2012,8,fri,30 days
+Australia and Oceania,Kiribati,Baby Food,Offline,L,8856,255.28,159.42,848936.16,2010,8,sat,47 days
+Middle East and North Africa,Turkey,Baby Food,Online,M,368,255.28,159.42,35276.48,2014,4,fri,21 days
+Europe,San Marino,Fruits,Offline,M,221,9.33,6.92,532.61,2015,6,tue,13 days
+Europe,Vatican City,Snacks,Offline,C,4044,152.58,97.44,222986.16,2010,8,wed,21 days
+Middle East and North Africa,Morocco,Beverages,Offline,C,9499,47.45,31.79,148754.34,2012,8,mon,8 days
+Sub-Saharan Africa,Equatorial Guinea,Meat,Offline,L,1277,421.89,364.69,73044.4,2016,7,thur,25 days
+Middle East and North Africa,Jordan,Vegetables,Online,M,6104,154.06,90.93,385345.52,2010,9,mon,35 days
+Asia,Kyrgyzstan,Vegetables,Online,H,7733,154.06,90.93,488184.29,2011,3,sun,40 days
+Sub-Saharan Africa,Republic of the Congo,Fruits,Online,L,1950,9.33,6.92,4699.5,2012,4,sun,5 days
+Australia and Oceania,East Timor,Snacks,Offline,C,1574,152.58,97.44,86790.36,2013,5,fri,35 days
+Europe,Estonia,Meat,Offline,H,1452,421.89,364.69,83054.4,2014,8,sat,46 days
+Asia,Bangladesh,Snacks,Online,H,3465,152.58,97.44,191060.1,2013,7,tue,42 days
+Sub-Saharan Africa,Senegal,Fruits,Offline,H,1523,9.33,6.92,3670.43,2016,7,fri,44 days
+Middle East and North Africa,Pakistan,Fruits,Offline,L,6569,9.33,6.92,15831.29,2011,9,mon,7 days
+Europe,Czech Republic,Beverages,Online,H,1578,47.45,31.79,24711.48,2011,4,sun,1 days
+Sub-Saharan Africa,Ghana,Meat,Offline,C,6552,421.89,364.69,374774.4,2017,2,wed,37 days
+Asia,Japan,Cosmetics,Offline,H,3530,437.2,263.33,613761.1,2016,11,sat,33 days
+Asia,Kazakhstan,Baby Food,Offline,H,1578,255.28,159.42,151267.08,2010,10,fri,50 days
+Central America and the Caribbean,The Bahamas,Snacks,Offline,H,1794,152.58,97.44,98921.16,2015,3,sat,12 days
+Sub-Saharan Africa,Ethiopia,Household,Online,M,2309,668.27,502.54,382670.57,2013,6,mon,30 days
+Sub-Saharan Africa,Burkina Faso,Cosmetics,Offline,L,3284,437.2,263.33,570989.08,2012,10,wed,29 days
+Sub-Saharan Africa,Madagascar,Fruits,Offline,M,1910,9.33,6.92,4603.1,2017,7,fri,22 days
+Europe,Netherlands,Office Supplies,Online,M,7413,651.21,524.96,935891.25,2010,6,mon,35 days
+Europe,Greece,Vegetables,Online,L,6046,154.06,90.93,381683.98,2017,2,thur,32 days
+Middle East and North Africa,Egypt,Meat,Online,C,6096,421.89,364.69,348691.2,2011,1,thur,42 days
+Sub-Saharan Africa,South Sudan,Fruits,Online,M,2880,9.33,6.92,6940.8,2016,1,fri,30 days
+Europe,Kosovo,Baby Food,Online,L,3747,255.28,159.42,359187.42,2011,7,sun,26 days
+Asia,Brunei,Beverages,Online,L,3077,47.45,31.79,48185.82,2012,3,thur,49 days
+Australia and Oceania,Australia,Vegetables,Online,C,7281,154.06,90.93,459649.53,2010,12,tue,28 days
+Sub-Saharan Africa,Cape Verde,Fruits,Offline,H,9800,9.33,6.92,23618.0,2013,3,fri,32 days
+Sub-Saharan Africa,Malawi,Household,Offline,H,6110,668.27,502.54,1012610.3,2010,2,tue,46 days
+Asia,Philippines,Personal Care,Online,L,8714,81.73,56.67,218372.84,2013,2,mon,39 days
+Europe,Estonia,Beverages,Online,L,2149,47.45,31.79,33653.34,2011,10,thur,45 days
+Central America and the Caribbean,Trinidad and Tobago,Office Supplies,Offline,L,7982,651.21,524.96,1007727.5,2015,10,sun,37 days
+Asia,Mongolia,Household,Online,C,9812,668.27,502.54,1626142.76,2013,2,mon,0 days
+Asia,Japan,Personal Care,Offline,M,8269,81.73,56.67,207221.14,2011,8,wed,9 days
+Sub-Saharan Africa,Niger,Meat,Online,C,6014,421.89,364.69,344000.8,2012,12,mon,1 days
+Middle East and North Africa,Egypt,Baby Food,Offline,M,2739,255.28,159.42,262560.54,2015,9,mon,1 days
+Central America and the Caribbean,Saint Lucia,Vegetables,Online,C,168,154.06,90.93,10605.84,2012,3,wed,49 days
+Middle East and North Africa,Qatar,Cereal,Offline,C,7055,205.7,117.11,625002.45,2014,8,mon,19 days
+Sub-Saharan Africa,Mali,Fruits,Offline,H,4188,9.33,6.92,10093.08,2013,7,tue,4 days
+Central America and the Caribbean,Saint Lucia,Cosmetics,Online,L,9383,437.2,263.33,1631422.21,2012,1,wed,33 days
+Sub-Saharan Africa,Swaziland,Clothes,Offline,M,2488,109.28,35.84,182718.72,2014,3,sun,47 days
+Asia,Mongolia,Fruits,Online,M,385,9.33,6.92,927.85,2013,9,wed,26 days
+Sub-Saharan Africa,Botswana,Office Supplies,Online,C,1983,651.21,524.96,250353.75,2013,1,fri,13 days
+Europe,San Marino,Cosmetics,Online,H,3226,437.2,263.33,560904.62,2011,10,thur,41 days
+Middle East and North Africa,Oman,Fruits,Online,C,2087,9.33,6.92,5029.67,2010,11,sat,4 days
+Asia,Bangladesh,Office Supplies,Offline,C,3570,651.21,524.96,450712.5,2015,10,tue,37 days
+Sub-Saharan Africa,Namibia,Cosmetics,Offline,C,4713,437.2,263.33,819449.31,2010,7,wed,34 days
+Asia,Mongolia,Fruits,Online,M,9582,9.33,6.92,23092.62,2014,3,sat,32 days
+Asia,North Korea,Beverages,Online,C,4276,47.45,31.79,66962.16,2016,9,tue,28 days
+Europe,Latvia,Clothes,Online,M,1925,109.28,35.84,141372.0,2012,9,wed,9 days
+Sub-Saharan Africa,Burundi,Snacks,Offline,M,7689,152.58,97.44,423971.46,2013,2,thur,25 days
+Sub-Saharan Africa,Seychelles ,Personal Care,Online,C,3762,81.73,56.67,94275.72,2011,1,sun,13 days
+Sub-Saharan Africa,Kenya,Cereal,Online,H,4368,205.7,117.11,386961.12,2015,10,sat,26 days
+Sub-Saharan Africa,Benin,Office Supplies,Online,C,760,651.21,524.96,95950.0,2011,2,sun,2 days
+Central America and the Caribbean,Saint Lucia,Personal Care,Online,C,6225,81.73,56.67,155998.5,2012,4,sat,45 days
+Middle East and North Africa,Qatar,Meat,Online,H,1080,421.89,364.69,61776.0,2016,8,mon,45 days
+Sub-Saharan Africa,Mozambique,Beverages,Online,C,7675,47.45,31.79,120190.5,2014,12,fri,6 days
+Middle East and North Africa,Pakistan,Clothes,Offline,M,5388,109.28,35.84,395694.72,2010,6,sun,23 days
+Asia,Taiwan,Personal Care,Online,M,5631,81.73,56.67,141112.86,2015,2,thur,0 days
+Central America and the Caribbean,Cuba,Cereal,Offline,L,6847,205.7,117.11,606575.73,2015,3,sun,32 days
+Central America and the Caribbean,Cuba,Household,Offline,H,9509,668.27,502.54,1575926.57,2013,7,sat,27 days
+Europe,Russia,Beverages,Offline,C,1122,47.45,31.79,17570.52,2010,1,tue,30 days
+Europe,Switzerland,Cereal,Offline,C,1222,205.7,117.11,108256.98,2013,2,tue,50 days
+Europe,Czech Republic,Personal Care,Offline,H,6377,81.73,56.67,159807.62,2013,8,sat,35 days
+Europe,Poland,Meat,Offline,C,5185,421.89,364.69,296582.0,2010,11,mon,45 days
+Sub-Saharan Africa,Mauritius ,Cereal,Offline,L,3275,205.7,117.11,290132.25,2016,8,mon,30 days
+Middle East and North Africa,Pakistan,Vegetables,Offline,M,8310,154.06,90.93,524610.3,2013,4,wed,0 days
+Sub-Saharan Africa,South Africa,Fruits,Offline,L,4981,9.33,6.92,12004.21,2011,3,tue,9 days
+Sub-Saharan Africa,Seychelles ,Household,Online,C,13,668.27,502.54,2154.49,2013,9,fri,18 days
+Sub-Saharan Africa,Benin,Meat,Offline,M,7159,421.89,364.69,409494.8,2014,5,sun,31 days
+Sub-Saharan Africa,Benin,Meat,Offline,L,2207,421.89,364.69,126240.4,2014,11,thur,11 days
+Central America and the Caribbean,Nicaragua,Fruits,Online,M,7973,9.33,6.92,19214.93,2014,8,fri,14 days
+Middle East and North Africa,Lebanon,Office Supplies,Online,L,9306,651.21,524.96,1174882.5,2013,11,tue,5 days
+Europe,Moldova ,Meat,Online,M,8086,421.89,364.69,462519.2,2010,2,mon,41 days
+Middle East and North Africa,Tunisia ,Snacks,Online,H,8225,152.58,97.44,453526.5,2017,3,sun,40 days
+Australia and Oceania,Vanuatu,Beverages,Offline,M,664,47.45,31.79,10398.24,2015,11,sat,6 days
+Sub-Saharan Africa,South Sudan,Beverages,Online,C,8377,47.45,31.79,131183.82,2010,8,sun,14 days
+Europe,Sweden,Cereal,Online,L,1370,205.7,117.11,121368.3,2010,11,thur,18 days
+Europe,Ireland,Meat,Offline,C,1677,421.89,364.69,95924.4,2011,12,tue,43 days
+Europe,Italy,Vegetables,Offline,L,8367,154.06,90.93,528208.71,2014,1,thur,46 days
+Europe,Bosnia and Herzegovina,Vegetables,Online,C,2539,154.06,90.93,160287.07,2010,10,sat,0 days
+Europe,Bosnia and Herzegovina,Household,Online,H,2321,668.27,502.54,384659.33,2015,10,wed,20 days
+Europe,Poland,Snacks,Offline,M,7876,152.58,97.44,434282.64,2013,7,fri,28 days
+Middle East and North Africa,Kuwait,Snacks,Online,H,6396,152.58,97.44,352675.44,2016,1,mon,38 days
+Sub-Saharan Africa,Sudan,Cereal,Online,M,7103,205.7,117.11,629254.77,2013,8,fri,25 days
+Middle East and North Africa,Saudi Arabia,Vegetables,Online,C,6254,154.06,90.93,394815.02,2016,8,mon,4 days
+Sub-Saharan Africa,Swaziland,Baby Food,Offline,M,2134,255.28,159.42,204565.24,2013,9,tue,4 days
+Sub-Saharan Africa,Rwanda,Meat,Offline,C,61,421.89,364.69,3489.2,2013,8,tue,42 days
+Asia,Cambodia,Cosmetics,Offline,M,7383,437.2,263.33,1283682.21,2010,12,thur,44 days
+Sub-Saharan Africa,Central African Republic,Vegetables,Online,C,8480,154.06,90.93,535342.4,2012,9,mon,30 days
+Asia,Maldives,Cosmetics,Offline,M,9764,437.2,263.33,1697666.68,2011,10,fri,30 days
+Sub-Saharan Africa,Djibouti,Household,Offline,C,4676,668.27,502.54,774953.48,2013,8,sun,14 days
+Asia,Tajikistan,Beverages,Online,M,8691,47.45,31.79,136101.06,2017,2,thur,15 days
+Asia,Sri Lanka,Baby Food,Online,H,4312,255.28,159.42,413348.32,2010,10,mon,2 days
+Europe,Montenegro,Personal Care,Online,M,6077,81.73,56.67,152289.62,2014,7,tue,11 days
+Middle East and North Africa,United Arab Emirates,Personal Care,Online,H,5553,81.73,56.67,139158.18,2015,5,wed,14 days
+Central America and the Caribbean,Dominican Republic,Personal Care,Offline,C,6338,81.73,56.67,158830.28,2016,5,wed,47 days
+Sub-Saharan Africa,Seychelles ,Office Supplies,Offline,C,9063,651.21,524.96,1144203.75,2010,4,tue,32 days
+Europe,Iceland,Office Supplies,Online,C,6388,651.21,524.96,806485.0,2013,10,fri,7 days
+Sub-Saharan Africa,Nigeria,Vegetables,Offline,C,8005,154.06,90.93,505355.65,2010,7,tue,50 days
+Sub-Saharan Africa,Rwanda,Fruits,Online,H,5639,9.33,6.92,13589.99,2015,6,mon,46 days
+Europe,Hungary,Snacks,Offline,C,8044,152.58,97.44,443546.16,2010,6,wed,24 days
+Europe,Belarus,Baby Food,Online,L,6007,255.28,159.42,575831.02,2016,5,mon,25 days
+Sub-Saharan Africa,South Sudan,Cosmetics,Offline,H,7344,437.2,263.33,1276901.28,2013,8,fri,27 days
+Europe,Andorra,Vegetables,Online,M,1905,154.06,90.93,120262.65,2013,9,sat,21 days
+Asia,Japan,Meat,Offline,M,6569,421.89,364.69,375746.8,2010,7,thur,39 days
+Central America and the Caribbean,El Salvador,Meat,Offline,L,248,421.89,364.69,14185.6,2013,12,tue,23 days
+Sub-Saharan Africa,Kenya,Office Supplies,Offline,L,8883,651.21,524.96,1121478.75,2016,3,fri,4 days
+Europe,Bosnia and Herzegovina,Snacks,Online,M,449,152.58,97.44,24757.86,2010,6,tue,30 days
+Europe,Andorra,Personal Care,Online,M,9950,81.73,56.67,249347.0,2017,5,sat,33 days
+Sub-Saharan Africa,Cape Verde,Cosmetics,Online,H,4423,437.2,263.33,769027.01,2013,6,tue,7 days
+Australia and Oceania,Nauru,Fruits,Online,L,7934,9.33,6.92,19120.94,2010,2,sun,42 days
+Europe,Czech Republic,Cereal,Offline,H,6583,205.7,117.11,583187.97,2012,6,thur,31 days
+Europe,Serbia,Vegetables,Online,L,3500,154.06,90.93,220955.0,2015,3,sun,13 days
+Australia and Oceania,Tuvalu,Cereal,Offline,C,3844,205.7,117.11,340539.96,2014,2,tue,39 days
+Sub-Saharan Africa,Madagascar,Clothes,Offline,H,9810,109.28,35.84,720446.4,2017,5,sun,44 days
+Sub-Saharan Africa,Ethiopia,Vegetables,Online,C,5620,154.06,90.93,354790.6,2011,8,fri,31 days
+Asia,Malaysia,Baby Food,Offline,L,2530,255.28,159.42,242525.8,2010,11,sat,40 days
+Sub-Saharan Africa,Tanzania,Household,Offline,C,3825,668.27,502.54,633917.25,2015,4,sat,22 days
+Sub-Saharan Africa,Cote d'Ivoire,Vegetables,Offline,M,9823,154.06,90.93,620125.99,2014,7,mon,20 days
+Australia and Oceania,Solomon Islands,Clothes,Offline,M,2873,109.28,35.84,210993.12,2014,8,fri,38 days
+Europe,Netherlands,Clothes,Online,H,2354,109.28,35.84,172877.76,2011,3,sat,18 days
+Sub-Saharan Africa,Mali,Baby Food,Offline,M,9677,255.28,159.42,927637.22,2016,3,tue,17 days
+Middle East and North Africa,Afghanistan,Cereal,Offline,C,3286,205.7,117.11,291106.74,2015,12,fri,28 days
+Europe,Moldova ,Personal Care,Online,C,3653,81.73,56.67,91544.18,2013,3,wed,10 days
+Asia,Bhutan,Snacks,Online,H,8283,152.58,97.44,456724.62,2015,6,fri,7 days
+Asia,Vietnam,Vegetables,Offline,M,6714,154.06,90.93,423854.82,2016,2,wed,31 days
+Europe,Portugal,Vegetables,Online,H,5511,154.06,90.93,347909.43,2013,6,thur,26 days
+Europe,Spain,Baby Food,Online,M,3273,255.28,159.42,313749.78,2014,5,fri,4 days
+Middle East and North Africa,Egypt,Meat,Offline,C,5632,421.89,364.69,322150.4,2015,6,tue,16 days
+Europe,Belgium,Snacks,Online,C,246,152.58,97.44,13564.44,2014,6,tue,21 days
+Asia,Malaysia,Cosmetics,Offline,H,1810,437.2,263.33,314704.7,2013,11,sat,21 days
+Central America and the Caribbean,Dominican Republic,Cosmetics,Offline,C,7047,437.2,263.33,1225261.89,2017,4,sat,30 days
+Europe,Estonia,Beverages,Offline,H,9711,47.45,31.79,152074.26,2010,5,thur,50 days
+Sub-Saharan Africa,Burundi,Snacks,Offline,C,5588,152.58,97.44,308122.32,2010,5,fri,46 days
+Europe,Latvia,Beverages,Online,M,7497,47.45,31.79,117403.02,2016,6,wed,22 days
+Asia,Tajikistan,Meat,Offline,M,285,421.89,364.69,16302.0,2013,8,wed,44 days
+Sub-Saharan Africa,Zimbabwe,Fruits,Offline,H,5833,9.33,6.92,14057.53,2014,10,sat,18 days
+Sub-Saharan Africa,Comoros,Meat,Offline,L,8052,421.89,364.69,460574.4,2010,10,sat,13 days
+Sub-Saharan Africa,Namibia,Clothes,Online,L,7884,109.28,35.84,579000.96,2012,11,mon,35 days
+Europe,Slovenia,Cereal,Offline,H,8302,205.7,117.11,735474.18,2010,5,fri,4 days
+Europe,Bulgaria,Snacks,Offline,L,9312,152.58,97.44,513463.68,2012,8,thur,29 days
+Sub-Saharan Africa,Guinea-Bissau,Cereal,Online,L,2950,205.7,117.11,261340.5,2015,1,thur,30 days
+Sub-Saharan Africa,Lesotho,Beverages,Offline,L,8282,47.45,31.79,129696.12,2010,3,mon,19 days
+Asia,Sri Lanka,Cosmetics,Offline,L,6409,437.2,263.33,1114332.83,2014,5,thur,18 days
+Australia and Oceania,East Timor,Snacks,Online,H,5459,152.58,97.44,301009.26,2010,12,mon,39 days
+Europe,Belarus,Household,Online,M,5594,668.27,502.54,927093.62,2014,10,sat,5 days
+Sub-Saharan Africa,Benin,Meat,Offline,H,4006,421.89,364.69,229143.2,2015,1,tue,32 days
+Europe,Ireland,Beverages,Offline,L,9919,47.45,31.79,155331.54,2017,4,mon,44 days
+Middle East and North Africa,Iran,Meat,Offline,H,9587,421.89,364.69,548376.4,2016,8,thur,6 days
+Sub-Saharan Africa,Benin,Household,Offline,C,1297,668.27,502.54,214951.81,2016,11,fri,47 days
+Sub-Saharan Africa,South Sudan,Beverages,Online,L,366,47.45,31.79,5731.56,2011,9,thur,31 days
+Sub-Saharan Africa,Comoros,Personal Care,Online,L,4144,81.73,56.67,103848.64,2010,10,sat,40 days
+Europe,Poland,Baby Food,Online,H,7008,255.28,159.42,671786.88,2013,8,tue,39 days
+Europe,Bosnia and Herzegovina,Cosmetics,Offline,C,5372,437.2,263.33,934029.64,2013,2,sun,11 days
+Sub-Saharan Africa,Namibia,Vegetables,Offline,C,2677,154.06,90.93,168999.01,2014,8,sun,24 days
+Europe,Spain,Office Supplies,Offline,C,4396,651.21,524.96,554995.0,2017,1,wed,12 days
+Middle East and North Africa,Iran,Meat,Online,C,3036,421.89,364.69,173659.2,2016,7,sat,45 days
+Central America and the Caribbean,Guatemala,Office Supplies,Offline,C,3131,651.21,524.96,395288.75,2010,3,fri,6 days
+Australia and Oceania,East Timor,Beverages,Online,C,6249,47.45,31.79,97859.34,2015,6,thur,20 days
+Middle East and North Africa,Bahrain,Household,Online,H,5990,668.27,502.54,992722.7,2012,6,tue,20 days
+Sub-Saharan Africa,Ethiopia,Office Supplies,Online,L,2982,651.21,524.96,376477.5,2016,12,sun,32 days
+Australia and Oceania,Solomon Islands,Personal Care,Offline,M,9886,81.73,56.67,247743.16,2015,3,sun,42 days
+Central America and the Caribbean,Belize,Snacks,Online,C,6397,152.58,97.44,352730.58,2013,6,mon,25 days
+Asia,Sri Lanka,Office Supplies,Online,C,4236,651.21,524.96,534795.0,2011,8,thur,22 days
+Central America and the Caribbean,Costa Rica,Clothes,Offline,H,2158,109.28,35.84,158483.52,2014,4,wed,7 days
+Sub-Saharan Africa,Nigeria,Baby Food,Online,L,951,255.28,159.42,91162.86,2012,2,thur,24 days
+Middle East and North Africa,Iran,Office Supplies,Online,L,8431,651.21,524.96,1064413.75,2015,8,fri,49 days
+Sub-Saharan Africa,Djibouti,Baby Food,Online,C,4447,255.28,159.42,426289.42,2013,9,tue,24 days
+Asia,South Korea,Snacks,Online,L,5879,152.58,97.44,324168.06,2015,5,thur,30 days
+Central America and the Caribbean,Dominica,Snacks,Offline,L,1637,152.58,97.44,90264.18,2015,5,thur,10 days
+Asia,Vietnam,Snacks,Online,L,7665,152.58,97.44,422648.1,2013,7,tue,47 days
+Europe,Norway,Personal Care,Offline,H,1936,81.73,56.67,48516.16,2010,6,tue,35 days
+Central America and the Caribbean,Haiti,Beverages,Online,C,9455,47.45,31.79,148065.3,2011,11,mon,6 days
+Central America and the Caribbean,Jamaica,Fruits,Offline,L,7258,9.33,6.92,17491.78,2016,10,sun,10 days
+Sub-Saharan Africa,Sudan,Vegetables,Offline,M,9412,154.06,90.93,594179.56,2014,2,sat,29 days
+Sub-Saharan Africa,Angola,Meat,Offline,L,2016,421.89,364.69,115315.2,2016,4,fri,12 days
+Central America and the Caribbean,Panama,Cosmetics,Offline,M,8200,437.2,263.33,1425734.0,2010,8,mon,46 days
+Europe,Greece,Personal Care,Online,M,3124,81.73,56.67,78287.44,2015,8,fri,30 days
+Sub-Saharan Africa,Madagascar,Cereal,Offline,H,8983,205.7,117.11,795803.97,2016,8,wed,1 days
+Sub-Saharan Africa,Guinea-Bissau,Clothes,Online,L,9998,109.28,35.84,734253.12,2015,6,wed,13 days
+North America,Greenland,Clothes,Online,L,7425,109.28,35.84,545292.0,2011,1,thur,4 days
+Middle East and North Africa,Libya,Beverages,Offline,H,4550,47.45,31.79,71253.0,2011,2,thur,28 days
+Europe,Belarus,Vegetables,Offline,C,1691,154.06,90.93,106752.83,2012,11,fri,24 days
+Middle East and North Africa,Lebanon,Clothes,Offline,H,1196,109.28,35.84,87834.24,2014,9,wed,48 days
+Sub-Saharan Africa,Djibouti,Baby Food,Offline,H,2444,255.28,159.42,234281.84,2012,5,wed,42 days
+Central America and the Caribbean,Barbados,Personal Care,Online,C,6848,81.73,56.67,171610.88,2010,2,fri,12 days
+Sub-Saharan Africa,Guinea-Bissau,Vegetables,Online,L,2849,154.06,90.93,179857.37,2017,2,mon,2 days
+Europe,Finland,Personal Care,Offline,C,921,81.73,56.67,23080.26,2013,5,thur,21 days
+Central America and the Caribbean,Haiti,Baby Food,Offline,L,8569,255.28,159.42,821424.34,2013,11,fri,14 days
+Sub-Saharan Africa,Niger,Clothes,Offline,M,5330,109.28,35.84,391435.2,2012,1,mon,40 days
+Central America and the Caribbean,Trinidad and Tobago,Fruits,Offline,L,7769,9.33,6.92,18723.29,2013,9,mon,46 days
+Central America and the Caribbean,Grenada,Personal Care,Online,M,4487,81.73,56.67,112444.22,2010,9,sat,43 days
+Central America and the Caribbean,Dominican Republic,Cereal,Offline,H,1113,205.7,117.11,98600.67,2014,10,mon,30 days
+Europe,Monaco,Household,Offline,C,5308,668.27,502.54,879694.84,2016,1,sat,19 days
+Europe,Estonia,Vegetables,Online,L,1764,154.06,90.93,111361.32,2016,12,mon,11 days
+Europe,Italy,Beverages,Offline,H,7206,47.45,31.79,112845.96,2013,8,thur,20 days
+Asia,Malaysia,Office Supplies,Online,C,5387,651.21,524.96,680108.75,2014,7,sun,48 days
+Sub-Saharan Africa,Ghana,Office Supplies,Offline,L,2095,651.21,524.96,264493.75,2013,11,thur,8 days
+Middle East and North Africa,Pakistan,Clothes,Offline,C,146,109.28,35.84,10722.24,2011,1,fri,7 days
+Asia,Sri Lanka,Snacks,Offline,L,4390,152.58,97.44,242064.6,2013,11,tue,10 days
+Europe,Romania,Fruits,Offline,C,6705,9.33,6.92,16159.05,2012,4,sun,24 days
+Middle East and North Africa,Qatar,Office Supplies,Online,H,1004,651.21,524.96,126755.0,2012,6,wed,15 days
+Sub-Saharan Africa,Cote d'Ivoire,Clothes,Online,H,8228,109.28,35.84,604264.32,2010,6,mon,41 days
+Middle East and North Africa,Egypt,Office Supplies,Online,M,1352,651.21,524.96,170690.0,2010,8,sun,22 days
+Middle East and North Africa,Iran,Snacks,Offline,H,379,152.58,97.44,20898.06,2014,12,wed,17 days
+Middle East and North Africa,Somalia,Clothes,Online,C,7347,109.28,35.84,539563.68,2011,1,wed,47 days
+Middle East and North Africa,Syria,Personal Care,Offline,C,1322,81.73,56.67,33129.32,2014,5,tue,21 days
+Australia and Oceania,Solomon Islands,Cereal,Offline,C,3404,205.7,117.11,301560.36,2010,11,sun,13 days
+Central America and the Caribbean,Guatemala,Fruits,Online,M,1721,9.33,6.92,4147.61,2014,3,sat,35 days
+Middle East and North Africa,Kuwait,Clothes,Offline,C,6436,109.28,35.84,472659.84,2016,7,fri,11 days
+Middle East and North Africa,Jordan,Meat,Online,L,4741,421.89,364.69,271185.2,2014,7,mon,4 days
+Australia and Oceania,Marshall Islands,Beverages,Offline,H,5859,47.45,31.79,91751.94,2013,10,sun,41 days
+Middle East and North Africa,Egypt,Snacks,Offline,C,6045,152.58,97.44,333321.3,2017,1,thur,36 days
+Europe,Switzerland,Meat,Online,C,3585,421.89,364.69,205062.0,2012,12,fri,16 days
+Australia and Oceania,Samoa ,Personal Care,Online,C,3797,81.73,56.67,95152.82,2010,4,thur,49 days
+Europe,Portugal,Cosmetics,Offline,C,4029,437.2,263.33,700522.23,2011,2,sat,13 days
+Europe,Albania,Clothes,Offline,C,8661,109.28,35.84,636063.84,2015,1,tue,26 days
+Central America and the Caribbean,Dominica,Vegetables,Offline,C,4105,154.06,90.93,259148.65,2014,11,sat,20 days
+Australia and Oceania,Tuvalu,Cosmetics,Online,H,3803,437.2,263.33,661227.61,2016,1,sat,12 days
+Australia and Oceania,Marshall Islands,Cereal,Online,L,3227,205.7,117.11,285879.93,2017,5,sun,38 days
+Europe,Bulgaria,Fruits,Online,H,4884,9.33,6.92,11770.44,2015,2,mon,15 days
+Sub-Saharan Africa,Niger,Office Supplies,Offline,M,3309,651.21,524.96,417761.25,2013,12,sat,30 days
+Central America and the Caribbean,Saint Vincent and the Grenadines,Office Supplies,Offline,H,70,651.21,524.96,8837.5,2015,12,wed,3 days
+Sub-Saharan Africa,Malawi,Beverages,Offline,L,8766,47.45,31.79,137275.56,2016,9,sat,22 days
+Sub-Saharan Africa,Cape Verde,Personal Care,Offline,L,25,81.73,56.67,626.5,2016,7,mon,10 days
+Central America and the Caribbean,Saint Vincent and the Grenadines,Beverages,Offline,C,6510,47.45,31.79,101946.6,2017,1,sun,4 days
+Europe,Greece,Personal Care,Offline,H,7913,81.73,56.67,198299.78,2016,11,fri,30 days
+Europe,Monaco,Clothes,Online,L,5957,109.28,35.84,437482.08,2015,10,fri,26 days
+Sub-Saharan Africa,Nigeria,Beverages,Online,L,9397,47.45,31.79,147157.02,2011,1,mon,19 days
+Europe,Norway,Cosmetics,Offline,C,9020,437.2,263.33,1568307.4,2015,11,sat,0 days
+North America,Greenland,Snacks,Offline,L,2643,152.58,97.44,145735.02,2010,6,wed,49 days
+Middle East and North Africa,Tunisia ,Beverages,Online,L,114,47.45,31.79,1785.24,2014,2,wed,4 days
+Asia,Uzbekistan,Meat,Offline,H,8313,421.89,364.69,475503.6,2013,2,mon,50 days
+Central America and the Caribbean,Saint Kitts and Nevis ,Vegetables,Online,H,6152,154.06,90.93,388375.76,2017,4,fri,26 days
+Central America and the Caribbean,Belize,Meat,Online,L,9572,421.89,364.69,547518.4,2011,4,fri,17 days
+Sub-Saharan Africa,Angola,Personal Care,Online,H,6548,81.73,56.67,164092.88,2010,12,sun,17 days
+Asia,Bhutan,Meat,Online,C,2085,421.89,364.69,119262.0,2014,5,mon,9 days
+Central America and the Caribbean,Honduras,Personal Care,Offline,L,3217,81.73,56.67,80618.02,2013,1,tue,40 days
+Sub-Saharan Africa,South Sudan,Household,Offline,H,4014,668.27,502.54,665240.22,2010,12,wed,45 days
+Asia,Kyrgyzstan,Baby Food,Online,L,573,255.28,159.42,54927.78,2013,1,wed,21 days
+Sub-Saharan Africa,Sao Tome and Principe,Cosmetics,Offline,M,6025,437.2,263.33,1047566.75,2014,2,mon,6 days
+Sub-Saharan Africa,Madagascar,Fruits,Online,M,5530,9.33,6.92,13327.3,2017,7,sat,50 days
+Sub-Saharan Africa,Senegal,Household,Online,H,1280,668.27,502.54,212134.4,2016,5,fri,38 days
+Sub-Saharan Africa,Sierra Leone,Office Supplies,Online,C,7501,651.21,524.96,947001.25,2012,3,fri,25 days
+Asia,Malaysia,Household,Offline,H,5446,668.27,502.54,902565.58,2011,10,sun,49 days
+Central America and the Caribbean,Cuba,Office Supplies,Online,C,8401,651.21,524.96,1060626.25,2014,12,sun,11 days
+Sub-Saharan Africa,Zimbabwe,Personal Care,Offline,L,6684,81.73,56.67,167501.04,2011,8,mon,5 days
+Europe,Serbia,Beverages,Online,H,2644,47.45,31.79,41405.04,2015,4,fri,35 days
+Asia,Maldives,Vegetables,Offline,M,5660,154.06,90.93,357315.8,2014,1,fri,43 days
+Europe,Ireland,Office Supplies,Offline,M,7144,651.21,524.96,901930.0,2012,2,sun,35 days
+Europe,Romania,Clothes,Offline,L,5537,109.28,35.84,406637.28,2011,4,sun,4 days
+Europe,Croatia,Beverages,Online,M,1315,47.45,31.79,20592.9,2013,12,wed,11 days
+Europe,Albania,Vegetables,Offline,M,1980,154.06,90.93,124997.4,2012,9,tue,49 days
+Central America and the Caribbean,Dominican Republic,Vegetables,Offline,L,7071,154.06,90.93,446392.23,2015,12,fri,27 days
+Sub-Saharan Africa,Zimbabwe,Vegetables,Online,M,3153,154.06,90.93,199048.89,2014,6,wed,44 days
+Sub-Saharan Africa,Ghana,Office Supplies,Offline,L,8826,651.21,524.96,1114282.5,2015,3,sun,9 days
+Asia,Laos,Beverages,Online,H,9719,47.45,31.79,152199.54,2014,8,sat,22 days
+Central America and the Caribbean,Panama,Personal Care,Offline,M,3494,81.73,56.67,87559.64,2010,7,sun,46 days
+Sub-Saharan Africa,Angola,Household,Online,L,4843,668.27,502.54,802630.39,2013,1,sun,30 days
+Middle East and North Africa,Syria,Snacks,Offline,L,490,152.58,97.44,27018.6,2010,7,sun,38 days
+Sub-Saharan Africa,Sierra Leone,Cosmetics,Offline,H,4189,437.2,263.33,728341.43,2011,7,sun,23 days
+Sub-Saharan Africa,Uganda,Fruits,Online,L,1727,9.33,6.92,4162.07,2010,5,mon,50 days
+Asia,Taiwan,Clothes,Offline,M,5921,109.28,35.84,434838.24,2013,10,sat,21 days
+Middle East and North Africa,Azerbaijan,Vegetables,Online,C,1619,154.06,90.93,102207.47,2014,7,sat,5 days
+Asia,Maldives,Office Supplies,Online,H,702,651.21,524.96,88627.5,2010,4,sat,7 days
+Sub-Saharan Africa,Mauritania,Meat,Offline,H,7081,421.89,364.69,405033.2,2014,8,sat,45 days
+Sub-Saharan Africa,Burundi,Baby Food,Online,H,1698,255.28,159.42,162770.28,2016,1,sun,25 days
+Sub-Saharan Africa,Zambia,Baby Food,Offline,H,7526,255.28,159.42,721442.36,2011,5,mon,19 days
+Asia,Singapore,Beverages,Offline,L,4571,47.45,31.79,71581.86,2010,2,thur,33 days
+Sub-Saharan Africa,Ghana,Household,Online,L,4869,668.27,502.54,806939.37,2015,2,mon,41 days
+Sub-Saharan Africa,Guinea,Meat,Offline,M,7487,421.89,364.69,428256.4,2011,6,mon,0 days
+Sub-Saharan Africa,Zambia,Fruits,Online,L,3524,9.33,6.92,8492.84,2015,5,mon,37 days
+Europe,Georgia,Snacks,Online,C,1109,152.58,97.44,61150.26,2010,5,sun,9 days
+Middle East and North Africa,Bahrain,Baby Food,Online,M,404,255.28,159.42,38727.44,2011,2,sun,45 days
+Sub-Saharan Africa,Lesotho,Personal Care,Offline,M,8601,81.73,56.67,215541.06,2014,6,fri,4 days
+Central America and the Caribbean,Barbados,Cosmetics,Offline,H,4924,437.2,263.33,856135.88,2010,10,thur,15 days
+Middle East and North Africa,Saudi Arabia,Vegetables,Online,H,5628,154.06,90.93,355295.64,2010,5,mon,43 days
+Europe,Macedonia,Personal Care,Offline,H,8998,81.73,56.67,225489.88,2017,2,wed,14 days
+Asia,Turkmenistan,Office Supplies,Offline,M,352,651.21,524.96,44440.0,2016,11,wed,45 days
+Europe,Albania,Baby Food,Online,L,7040,255.28,159.42,674854.4,2011,12,thur,14 days
+Middle East and North Africa,Afghanistan,Clothes,Online,C,3440,109.28,35.84,252633.6,2016,12,sun,42 days
+Australia and Oceania,Kiribati,Clothes,Offline,M,5963,109.28,35.84,437922.72,2017,2,wed,6 days
+Middle East and North Africa,Morocco,Cosmetics,Online,C,8053,437.2,263.33,1400175.11,2010,5,mon,29 days
+Europe,Norway,Baby Food,Offline,L,5183,255.28,159.42,496842.38,2010,9,mon,41 days
+Europe,Sweden,Cosmetics,Online,L,9858,437.2,263.33,1714010.46,2014,3,tue,13 days
+Asia,Tajikistan,Personal Care,Online,M,6613,81.73,56.67,165721.78,2010,7,thur,31 days
+Europe,Netherlands,Cosmetics,Online,M,7017,437.2,263.33,1220045.79,2016,12,sun,15 days
+Europe,Spain,Vegetables,Online,L,4667,154.06,90.93,294627.71,2013,10,mon,2 days
+Sub-Saharan Africa,Chad,Baby Food,Offline,H,194,255.28,159.42,18596.84,2016,8,mon,17 days
+Europe,Ireland,Meat,Online,C,6259,421.89,364.69,358014.8,2011,10,wed,45 days
+Middle East and North Africa,Pakistan,Meat,Online,C,2554,421.89,364.69,146088.8,2013,2,sat,12 days
+Sub-Saharan Africa,Mozambique,Fruits,Online,C,804,9.33,6.92,1937.64,2012,12,thur,7 days
+Middle East and North Africa,Bahrain,Fruits,Online,L,9762,9.33,6.92,23526.42,2015,11,thur,8 days
+Asia,Tajikistan,Meat,Online,M,214,421.89,364.69,12240.8,2012,7,fri,5 days
+Australia and Oceania,New Zealand,Meat,Offline,H,9980,421.89,364.69,570856.0,2013,6,sat,26 days
+Sub-Saharan Africa,Niger,Baby Food,Online,L,8906,255.28,159.42,853729.16,2015,2,tue,13 days
+Europe,Armenia,Fruits,Online,C,3872,9.33,6.92,9331.52,2011,4,wed,47 days
+Sub-Saharan Africa,Gabon,Baby Food,Online,L,3791,255.28,159.42,363405.26,2012,2,tue,20 days
+Asia,Kyrgyzstan,Vegetables,Offline,H,4604,154.06,90.93,290650.52,2017,1,sat,15 days
+Australia and Oceania,Fiji,Clothes,Offline,L,4285,109.28,35.84,314690.4,2011,12,wed,28 days
+Europe,Romania,Cosmetics,Online,H,7839,437.2,263.33,1362966.93,2017,5,sun,40 days
+Sub-Saharan Africa,Botswana,Cereal,Online,C,2302,205.7,117.11,203934.18,2017,5,tue,49 days
+Australia and Oceania,Fiji,Cosmetics,Online,M,1741,437.2,263.33,302707.67,2015,10,fri,39 days
+Europe,Vatican City,Clothes,Offline,C,2256,109.28,35.84,165680.64,2010,4,sat,8 days
+Asia,Thailand,Vegetables,Online,L,6975,154.06,90.93,440331.75,2010,7,fri,45 days
+Europe,Belarus,Cereal,Offline,C,1060,205.7,117.11,93905.4,2012,5,wed,47 days
+Australia and Oceania,Solomon Islands,Vegetables,Offline,L,6703,154.06,90.93,423160.39,2016,7,thur,2 days
+Asia,China,Cosmetics,Offline,M,8128,437.2,263.33,1413215.36,2017,1,fri,13 days
+Sub-Saharan Africa,Angola,Snacks,Online,C,6591,152.58,97.44,363427.74,2012,11,sun,20 days
+Asia,Cambodia,Cereal,Online,L,5376,205.7,117.11,476259.84,2011,10,sun,23 days
+Central America and the Caribbean,Guatemala,Baby Food,Offline,L,4802,255.28,159.42,460319.72,2010,11,mon,15 days
+Sub-Saharan Africa,Namibia,Vegetables,Online,L,7217,154.06,90.93,455609.21,2016,5,sat,1 days
+Europe,Serbia,Beverages,Offline,H,2001,47.45,31.79,31335.66,2016,2,fri,22 days
+Middle East and North Africa,Turkey,Vegetables,Offline,M,564,154.06,90.93,35605.32,2014,8,sat,36 days
+Middle East and North Africa,Pakistan,Vegetables,Offline,C,1351,154.06,90.93,85288.63,2013,5,sat,35 days
+Europe,Georgia,Vegetables,Offline,H,4833,154.06,90.93,305107.29,2015,1,sun,28 days
+Australia and Oceania,Vanuatu,Snacks,Offline,L,8516,152.58,97.44,469572.24,2012,1,fri,11 days
+Europe,Luxembourg,Cosmetics,Online,H,1937,437.2,263.33,336786.19,2012,10,sat,43 days
+Middle East and North Africa,Saudi Arabia,Household,Online,M,1661,668.27,502.54,275277.53,2015,9,tue,19 days
+Australia and Oceania,Vanuatu,Meat,Offline,H,6289,421.89,364.69,359730.8,2012,6,wed,3 days
+Central America and the Caribbean,Haiti,Snacks,Offline,H,1450,152.58,97.44,79953.0,2014,12,mon,43 days
+Sub-Saharan Africa,Tanzania,Household,Offline,C,4805,668.27,502.54,796332.65,2013,2,sun,0 days
+Asia,North Korea,Cosmetics,Offline,C,1047,437.2,263.33,182041.89,2017,2,thur,26 days
+Middle East and North Africa,Bahrain,Beverages,Online,L,6899,47.45,31.79,108038.34,2015,6,tue,34 days
+Sub-Saharan Africa,Cote d'Ivoire,Cereal,Online,L,6115,205.7,117.11,541727.85,2016,7,fri,26 days
+Asia,Singapore,Cosmetics,Offline,L,4483,437.2,263.33,779459.21,2014,10,wed,18 days
+Asia,Malaysia,Baby Food,Offline,M,4820,255.28,159.42,462045.2,2016,12,thur,13 days
+Europe,Albania,Baby Food,Online,L,1973,255.28,159.42,189131.78,2015,9,sun,28 days
+Sub-Saharan Africa,Gabon,Snacks,Online,L,7824,152.58,97.44,431415.36,2016,4,fri,19 days
+Europe,Poland,Snacks,Offline,L,6283,152.58,97.44,346444.62,2017,3,sun,3 days
+Sub-Saharan Africa,Chad,Office Supplies,Online,H,8292,651.21,524.96,1046865.0,2014,6,tue,38 days
+Sub-Saharan Africa,Republic of the Congo,Clothes,Online,H,6826,109.28,35.84,501301.44,2012,7,sat,44 days
+Asia,Philippines,Fruits,Offline,L,1888,9.33,6.92,4550.08,2013,5,fri,28 days
+Europe,France,Snacks,Offline,M,5516,152.58,97.44,304152.24,2012,2,wed,13 days
+Europe,Germany,Household,Offline,H,6777,668.27,502.54,1123152.21,2016,7,sat,8 days
+Sub-Saharan Africa,Uganda,Personal Care,Online,M,6769,81.73,56.67,169631.14,2012,11,sat,38 days
+Middle East and North Africa,Bahrain,Personal Care,Online,C,3621,81.73,56.67,90742.26,2014,8,mon,12 days
+Middle East and North Africa,Jordan,Office Supplies,Offline,M,7497,651.21,524.96,946496.25,2013,10,mon,6 days
+Europe,Montenegro,Beverages,Offline,L,5586,47.45,31.79,87476.76,2014,12,sun,33 days
+Middle East and North Africa,Tunisia ,Personal Care,Offline,H,7114,81.73,56.67,178276.84,2015,11,sun,19 days
+Europe,Germany,Cereal,Offline,M,8335,205.7,117.11,738397.65,2011,10,thur,28 days
+Europe,Italy,Snacks,Online,L,7536,152.58,97.44,415535.04,2014,2,sat,40 days
+Europe,France,Office Supplies,Offline,H,33,651.21,524.96,4166.25,2016,5,sat,18 days
+Middle East and North Africa,Algeria,Baby Food,Online,L,3175,255.28,159.42,304355.5,2013,4,sun,45 days
+Asia,Myanmar,Beverages,Online,H,1343,47.45,31.79,21031.38,2011,9,mon,36 days
+Europe,France,Vegetables,Offline,C,947,154.06,90.93,59784.11,2012,4,wed,22 days
+Europe,Spain,Vegetables,Online,C,5429,154.06,90.93,342732.77,2012,10,mon,23 days
+Asia,Cambodia,Baby Food,Offline,C,264,255.28,159.42,25307.04,2012,1,sun,23 days
+Sub-Saharan Africa,The Gambia,Vegetables,Online,M,7956,154.06,90.93,502262.28,2013,9,sun,41 days
+Europe,Russia,Baby Food,Offline,L,3041,255.28,159.42,291510.26,2015,3,mon,10 days
+Europe,Belarus,Baby Food,Offline,H,7088,255.28,159.42,679455.68,2010,10,mon,5 days
+Middle East and North Africa,Turkey,Beverages,Online,C,3693,47.45,31.79,57832.38,2011,5,sun,11 days
+Sub-Saharan Africa,Kenya,Meat,Offline,C,3488,421.89,364.69,199513.6,2017,2,sat,1 days
+Middle East and North Africa,Iran,Cosmetics,Offline,M,9133,437.2,263.33,1587954.71,2014,7,sat,13 days
+Asia,Vietnam,Personal Care,Offline,L,321,81.73,56.67,8044.26,2017,6,sat,22 days
+Europe,Albania,Beverages,Online,L,8775,47.45,31.79,137416.5,2010,7,sun,18 days
+Central America and the Caribbean,Antigua and Barbuda ,Clothes,Offline,C,3251,109.28,35.84,238753.44,2013,8,thur,26 days
+Sub-Saharan Africa,Senegal,Cereal,Offline,M,4534,205.7,117.11,401667.06,2017,3,wed,38 days
+Europe,Netherlands,Fruits,Online,L,441,9.33,6.92,1062.81,2016,10,sun,32 days
+Europe,Russia,Fruits,Online,C,822,9.33,6.92,1981.02,2016,7,sat,0 days
+Europe,Slovakia,Cosmetics,Online,H,2557,437.2,263.33,444585.59,2010,1,wed,22 days
+Australia and Oceania,East Timor,Beverages,Offline,L,4556,47.45,31.79,71346.96,2014,12,fri,43 days
+Central America and the Caribbean,Haiti,Vegetables,Offline,H,2761,154.06,90.93,174301.93,2015,10,thur,42 days
+Middle East and North Africa,Yemen,Cereal,Online,H,5147,205.7,117.11,455972.73,2013,5,thur,16 days
+Australia and Oceania,Tuvalu,Cereal,Online,C,6719,205.7,117.11,595236.21,2013,3,tue,49 days
+Sub-Saharan Africa,Liberia,Snacks,Offline,M,4512,152.58,97.44,248791.68,2014,7,sat,35 days
+Asia,North Korea,Beverages,Online,C,2594,47.45,31.79,40622.04,2013,8,thur,10 days
+Asia,North Korea,Household,Online,M,7063,668.27,502.54,1170550.99,2015,7,mon,24 days
+Europe,Romania,Household,Online,H,1050,668.27,502.54,174016.5,2014,12,mon,11 days
+Sub-Saharan Africa,Sao Tome and Principe,Cereal,Offline,M,9715,205.7,117.11,860651.85,2015,4,sun,22 days
+Middle East and North Africa,Bahrain,Fruits,Online,M,5251,9.33,6.92,12654.91,2017,3,mon,45 days
+Middle East and North Africa,Somalia,Cosmetics,Offline,M,1881,437.2,263.33,327049.47,2014,10,wed,31 days
+Europe,Cyprus,Cereal,Online,C,861,205.7,117.11,76275.99,2014,7,sat,19 days
+Europe,United Kingdom,Beverages,Offline,C,5477,47.45,31.79,85769.82,2016,7,sat,13 days
+Europe,Germany,Personal Care,Offline,H,6045,81.73,56.67,151487.7,2010,8,sun,3 days
+Middle East and North Africa,Somalia,Beverages,Online,M,4915,47.45,31.79,76968.9,2010,4,wed,45 days
+Australia and Oceania,New Zealand,Household,Offline,H,1466,668.27,502.54,242960.18,2011,3,tue,30 days
+Middle East and North Africa,Kuwait,Meat,Online,C,7110,421.89,364.69,406692.0,2010,1,tue,15 days
+Asia,Japan,Cosmetics,Online,L,289,437.2,263.33,50248.43,2016,1,tue,44 days
+Europe,Norway,Baby Food,Offline,H,1476,255.28,159.42,141489.36,2016,8,tue,24 days
+Sub-Saharan Africa,Lesotho,Personal Care,Offline,C,8177,81.73,56.67,204915.62,2011,10,fri,1 days
+Europe,Belgium,Cosmetics,Online,H,9928,437.2,263.33,1726181.36,2010,2,thur,36 days
+Central America and the Caribbean,Honduras,Cosmetics,Offline,L,3295,437.2,263.33,572901.65,2017,5,sun,24 days
+Europe,Austria,Household,Offline,C,6878,668.27,502.54,1139890.94,2010,4,fri,26 days
+Middle East and North Africa,Oman,Baby Food,Online,M,6307,255.28,159.42,604589.02,2015,9,mon,42 days
+Middle East and North Africa,Oman,Baby Food,Offline,C,9242,255.28,159.42,885938.12,2016,2,fri,33 days
+Europe,Spain,Snacks,Offline,M,376,152.58,97.44,20732.64,2014,2,sat,0 days
+Middle East and North Africa,Afghanistan,Fruits,Online,C,6433,9.33,6.92,15503.53,2013,4,sun,8 days
+Central America and the Caribbean,Saint Vincent and the Grenadines,Cosmetics,Offline,L,1167,437.2,263.33,202906.29,2014,7,mon,8 days
+Europe,Iceland,Vegetables,Online,M,365,154.06,90.93,23042.45,2012,3,tue,15 days
+Asia,Myanmar,Vegetables,Offline,L,6844,154.06,90.93,432061.72,2013,1,sun,33 days
+Europe,Netherlands,Snacks,Offline,L,5453,152.58,97.44,300678.42,2017,5,sun,29 days
+Europe,Slovakia,Vegetables,Online,M,8071,154.06,90.93,509522.23,2015,3,sun,8 days
+Middle East and North Africa,Bahrain,Fruits,Offline,H,8610,9.33,6.92,20750.1,2012,9,thur,39 days
+Sub-Saharan Africa,Lesotho,Baby Food,Online,L,8012,255.28,159.42,768030.32,2013,6,wed,28 days
+Central America and the Caribbean,Cuba,Clothes,Offline,L,9250,109.28,35.84,679320.0,2014,4,tue,47 days
+Middle East and North Africa,Afghanistan,Clothes,Offline,C,2331,109.28,35.84,171188.64,2017,1,thur,0 days
+Australia and Oceania,Vanuatu,Cereal,Online,L,9289,205.7,117.11,822912.51,2017,2,thur,13 days
+Asia,Bhutan,Beverages,Offline,M,9192,47.45,31.79,143946.72,2014,8,mon,45 days
+Australia and Oceania,Palau,Cereal,Offline,L,3139,205.7,117.11,278084.01,2010,10,tue,17 days
+Asia,Indonesia,Personal Care,Online,H,9259,81.73,56.67,232030.54,2011,9,fri,43 days
+Europe,Andorra,Baby Food,Offline,C,7714,255.28,159.42,739464.04,2016,12,sun,46 days
+Middle East and North Africa,Algeria,Office Supplies,Online,C,5696,651.21,524.96,719120.0,2015,10,sun,40 days
+Australia and Oceania,Vanuatu,Cosmetics,Offline,C,2429,437.2,263.33,422330.23,2013,10,sun,0 days
+North America,Mexico,Baby Food,Online,H,4168,255.28,159.42,399544.48,2013,8,fri,42 days
+Europe,Macedonia,Fruits,Offline,M,9199,9.33,6.92,22169.59,2011,8,sat,44 days
+Central America and the Caribbean,Panama,Personal Care,Online,H,2838,81.73,56.67,71120.28,2016,5,sat,21 days
+Asia,Nepal,Cereal,Offline,H,2436,205.7,117.11,215805.24,2015,1,mon,2 days
+Asia,Nepal,Fruits,Online,C,2371,9.33,6.92,5714.11,2014,7,mon,7 days
+Sub-Saharan Africa,Mauritius ,Cereal,Offline,C,9055,205.7,117.11,802182.45,2015,6,wed,15 days
+Sub-Saharan Africa,Sao Tome and Principe,Clothes,Online,H,5930,109.28,35.84,435499.2,2015,8,sun,47 days
+Central America and the Caribbean,Saint Vincent and the Grenadines,Fruits,Offline,L,8470,9.33,6.92,20412.7,2013,10,fri,33 days
+Asia,Maldives,Personal Care,Online,M,9180,81.73,56.67,230050.8,2013,10,tue,45 days
+Sub-Saharan Africa,Swaziland,Personal Care,Offline,H,2595,81.73,56.67,65030.7,2012,9,tue,18 days
+Middle East and North Africa,Morocco,Cereal,Online,H,284,205.7,117.11,25159.56,2012,10,mon,24 days
+Asia,Maldives,Clothes,Offline,M,5844,109.28,35.84,429183.36,2016,12,sat,48 days
+Sub-Saharan Africa,Zimbabwe,Fruits,Offline,C,9907,9.33,6.92,23875.87,2010,7,sun,14 days
+Asia,India,Cereal,Online,C,5132,205.7,117.11,454643.88,2010,3,fri,10 days
+Asia,Tajikistan,Beverages,Offline,C,1212,47.45,31.79,18979.92,2014,9,wed,11 days
+Sub-Saharan Africa,Lesotho,Snacks,Offline,M,9872,152.58,97.44,544342.08,2016,3,tue,6 days
+Asia,Bhutan,Office Supplies,Offline,M,9865,651.21,524.96,1245456.25,2011,10,tue,22 days
+Central America and the Caribbean,Trinidad and Tobago,Snacks,Offline,L,1978,152.58,97.44,109066.92,2014,10,thur,50 days
+Australia and Oceania,Tuvalu,Fruits,Offline,L,4028,9.33,6.92,9707.48,2013,2,fri,16 days
+Middle East and North Africa,Iraq,Clothes,Offline,L,5864,109.28,35.84,430652.16,2010,10,sun,15 days
+Sub-Saharan Africa,The Gambia,Vegetables,Offline,L,4366,154.06,90.93,275625.58,2016,10,mon,26 days
+Middle East and North Africa,Bahrain,Beverages,Online,C,8445,47.45,31.79,132248.7,2010,9,fri,43 days
+Middle East and North Africa,Qatar,Meat,Online,H,4043,421.89,364.69,231259.6,2014,12,sun,47 days
+Sub-Saharan Africa,Angola,Household,Offline,H,9135,668.27,502.54,1513943.55,2015,4,tue,33 days
+Central America and the Caribbean,Costa Rica,Cosmetics,Online,L,8724,437.2,263.33,1516841.88,2017,3,wed,35 days
+Australia and Oceania,Papua New Guinea,Household,Online,M,9847,668.27,502.54,1631943.31,2012,3,tue,50 days
+Middle East and North Africa,Qatar,Clothes,Offline,C,6571,109.28,35.84,482574.24,2011,11,mon,10 days
+Central America and the Caribbean,Saint Kitts and Nevis ,Clothes,Offline,H,4995,109.28,35.84,366832.8,2013,9,sat,17 days
+Sub-Saharan Africa,Sierra Leone,Fruits,Offline,C,8250,9.33,6.92,19882.5,2012,4,sun,6 days
+Europe,Russia,Fruits,Online,M,1495,9.33,6.92,3602.95,2011,2,sun,26 days
+Europe,Lithuania,Vegetables,Offline,M,6923,154.06,90.93,437048.99,2010,10,tue,16 days
+Europe,United Kingdom,Vegetables,Online,L,8759,154.06,90.93,552955.67,2012,12,fri,26 days
+Asia,Indonesia,Personal Care,Offline,H,8256,81.73,56.67,206895.36,2016,8,tue,47 days
+Asia,Mongolia,Beverages,Offline,M,8702,47.45,31.79,136273.32,2014,4,tue,31 days
+Middle East and North Africa,Egypt,Office Supplies,Online,C,413,651.21,524.96,52141.25,2010,11,wed,20 days
+Sub-Saharan Africa,Comoros,Household,Online,M,5738,668.27,502.54,950958.74,2012,4,sat,17 days
+Europe,Slovenia,Household,Offline,M,4057,668.27,502.54,672366.61,2014,4,fri,16 days
+Middle East and North Africa,Lebanon,Beverages,Online,M,6781,47.45,31.79,106190.46,2013,6,thur,22 days
+Australia and Oceania,Australia,Cosmetics,Offline,L,2352,437.2,263.33,408942.24,2011,7,tue,31 days
+Central America and the Caribbean,Haiti,Snacks,Online,M,1245,152.58,97.44,68649.3,2011,2,mon,48 days
+Central America and the Caribbean,Saint Kitts and Nevis ,Meat,Online,L,963,421.89,364.69,55083.6,2012,1,thur,20 days
+Middle East and North Africa,Syria,Vegetables,Offline,M,1044,154.06,90.93,65907.72,2015,6,tue,7 days
+Asia,Laos,Snacks,Offline,M,8054,152.58,97.44,444097.56,2012,1,mon,5 days
+Central America and the Caribbean,Saint Kitts and Nevis ,Cereal,Offline,H,592,205.7,117.11,52445.28,2016,2,sat,27 days
+Sub-Saharan Africa,Sudan,Vegetables,Offline,H,4288,154.06,90.93,270701.44,2016,12,sat,18 days
+Central America and the Caribbean,Guatemala,Meat,Offline,H,6803,421.89,364.69,389131.6,2012,1,sun,44 days
+Asia,Brunei,Clothes,Offline,H,2830,109.28,35.84,207835.2,2011,8,fri,3 days
+Middle East and North Africa,Jordan,Clothes,Online,M,9092,109.28,35.84,667716.48,2011,8,thur,10 days
+Central America and the Caribbean,Panama,Meat,Offline,C,9344,421.89,364.69,534476.8,2012,12,mon,18 days
+Sub-Saharan Africa,Central African Republic,Household,Online,H,9372,668.27,502.54,1553221.56,2010,1,sat,40 days
+Middle East and North Africa,Bahrain,Beverages,Offline,M,1993,47.45,31.79,31210.38,2017,2,mon,31 days
+Sub-Saharan Africa,Burundi,Beverages,Online,C,2057,47.45,31.79,32212.62,2011,12,wed,8 days
+Europe,Austria,Cereal,Online,L,1443,205.7,117.11,127835.37,2014,8,sun,26 days
+Australia and Oceania,Fiji,Beverages,Offline,H,4062,47.45,31.79,63610.92,2016,4,mon,3 days
+Australia and Oceania,Fiji,Clothes,Offline,M,856,109.28,35.84,62864.64,2012,11,mon,48 days
+Europe,Switzerland,Snacks,Online,H,4800,152.58,97.44,264672.0,2016,5,thur,27 days
+Middle East and North Africa,Yemen,Office Supplies,Offline,M,5898,651.21,524.96,744622.5,2013,8,sat,1 days
+Sub-Saharan Africa,Comoros,Personal Care,Offline,H,6186,81.73,56.67,155021.16,2014,12,tue,42 days
+Sub-Saharan Africa,Democratic Republic of the Congo,Office Supplies,Online,C,4732,651.21,524.96,597415.0,2013,2,sun,8 days
+Asia,Mongolia,Clothes,Offline,H,2633,109.28,35.84,193367.52,2016,9,thur,25 days
+Australia and Oceania,Palau,Household,Offline,L,8021,668.27,502.54,1329320.33,2016,11,mon,1 days
+Europe,Monaco,Snacks,Offline,M,1057,152.58,97.44,58282.98,2012,12,wed,13 days
+Australia and Oceania,Fiji,Cereal,Online,L,8932,205.7,117.11,791285.88,2017,3,thur,24 days
+Sub-Saharan Africa,Mali,Beverages,Online,L,870,47.45,31.79,13624.2,2012,3,fri,9 days
+Sub-Saharan Africa,Liberia,Cereal,Offline,H,3126,205.7,117.11,276932.34,2015,12,wed,34 days
+Europe,Switzerland,Beverages,Offline,L,3987,47.45,31.79,62436.42,2017,2,fri,26 days
+Australia and Oceania,Samoa ,Baby Food,Online,L,8769,255.28,159.42,840596.34,2016,11,fri,0 days
+Asia,Nepal,Meat,Offline,C,4821,421.89,364.69,275761.2,2017,4,sat,39 days
+Middle East and North Africa,Azerbaijan,Snacks,Offline,C,6524,152.58,97.44,359733.36,2010,4,sat,7 days
+Europe,Georgia,Baby Food,Offline,H,288,255.28,159.42,27607.68,2011,8,sun,37 days
+Middle East and North Africa,United Arab Emirates,Vegetables,Online,C,9556,154.06,90.93,603270.28,2011,5,wed,47 days
+Europe,Finland,Household,Offline,L,9801,668.27,502.54,1624319.73,2016,1,sun,20 days
+Europe,Portugal,Cereal,Offline,C,3528,205.7,117.11,312545.52,2014,4,wed,28 days
