@@ -1,6 +1,6 @@
 # Sales Price Prediction – ML
 
-![Login Page](/images/login.png)
+![Login Page](./Images/login-page.png)
 *Figure 1: Secure login page for the Sales Price Prediction web application.*
 
 ---
@@ -26,8 +26,7 @@ Predicting sales prices accurately is critical for business profitability and op
   - Handling missing values (filled with 0)
   - Feature engineering for domain insight
 
-![Dataset Distribution](../images/dataset-dist.png)
-*Figure 2: Distribution of total profit and unit price post-cleaning.*
+![Dataset Snapshot](./Images/dataset%20snapshot.png)
 
 ---
 
@@ -36,10 +35,13 @@ Predicting sales prices accurately is critical for business profitability and op
 ### Linear Regression (LR)
 A baseline model to establish a simple benchmark. Fits a linear function to the features.
 
+![Model Architecture](/Images/model%20training.png)
+*Figure 2: Overview of the ML pipeline from data preprocessing to model deployment.*
+
 ### Random Forest Regressor (RF)
 An ensemble of decision trees, capable of capturing complex, non-linear relationships and handling outliers effectively.
 
-![Model Architecture](../images/model-architecture.png)
+![Model Architecture](/Images/model%20training.png)
 *Figure 3: Overview of the ML pipeline from data preprocessing to model deployment.*
 
 ---
@@ -56,11 +58,11 @@ Below are the model performances on the test set:
 *(Replace Xs with your actual numbers)*
 
 **Sanity Check Example:**
-![Sanity Check](../images/sanity-check.png)
+![Sanity Check](./Images/sanity%20check.png)
 *Figure 4: Sanity check results for model prediction on edge cases.*
 
 **Model Comparison:**
-![Model Comparison](../images/model-comparison.png)
+![Model Comparison](./Images/model%20training.png)
 *Figure 5: R² and RMSE comparison between Linear Regression and Random Forest.*
 
 ---
@@ -113,7 +115,7 @@ Content-Type: application/json
 - Built with Next.js.
 - Features secure login and easy-to-use prediction form.
 
-![App UI Screenshot](../images/ui-screenshot.png)
+![App UI Screenshot](./Images/LR%20and%20RF%20prediction.png)
 *Figure 6: Main UI for entering sales details and viewing predictions.*
 
 ---
@@ -158,4 +160,4 @@ Content-Type: application/json
 
 ---
 
-> **Note:** Replace image files with your actual screenshots, plots, or diagrams for best results.
+**Thanks for reading!**
