@@ -56,6 +56,25 @@ print_metrics(y_test, rf_pred)
 #     "Order_Ship_Days": (df["Order_Ship_Days"].min(), df["Order_Ship_Days"].max())
 # }
 
+
+# --------------------------------
+# # Single-row prediction (sanity check)
+# --------------------------------
+# Pick one unseen row from X_test and predict both models.
+# Use iloc[[i]] (double brackets) to keep it as a DataFrame with column names
+i = 3
+x_one_df = X_test.iloc[[i]]   # 1-row DataFrame (keeps feature names)
+y_true   = y_test.iloc[i]     # scalar
+
+p_lr_one = float(lr.predict(x_one_df)[0])
+p_rf_one = float(rf.predict(x_one_df)[0])
+
+print("\nSingle-row sanity check:")
+print(f"  Actual Price: ${y_true:,.0f}")
+print(f"  LR Pred     : ${p_lr_one:,.0f}")
+print(f"  RF Pred     : ${p_rf_one:,.0f}")
+
+
 # --- 8) Example new record with extreme values ---
 # new_record = {
 #     "Units Sold": 500000,
@@ -84,44 +103,48 @@ print_metrics(y_test, rf_pred)
 # print("\n=== Custom Input Prediction ===")
 # print("Linear Regression:", float(lr.predict(X_new_df)[0]))
 # print("Random Forest    :", float(rf.predict(X_new_df)[0]))
+
+
+
 # --- 11) Save models (optional) ---
 
 # joblib.dump(lr, "models/lr_model.joblib")
 # joblib.dump(rf, "models/rf_model.joblib")
 # print("\nModels saved to models")
-new_record = {
-    "Units Sold": 500000,        # aad u weyn, ka baxsan dataset
-    "Unit Price": -50,           # negative, qalad
-    "Unit Cost": 999999,         # aad u weyn, ka baxsan dataset
-    "Order_Ship_Days": -10,      # negative, qalad
-    "Order Priority": "H",
-    "Sales Channel": "Online",
-    "Region": "North America",
-    "Country": "United States of America",
-    "Item Type": "Clothes",
-    "Order Weekday": "mon"
-}
+# new_record = {
+#     "Units Sold": 500000,        # aad u weyn, ka baxsan dataset
+#     "Unit Price": -50,           # negative, qalad
+#     "Unit Cost": 999999,         # aad u weyn, ka baxsan dataset
+#     "Order_Ship_Days": -10,      # negative, qalad
+#     "Order Priority": "H",
+#     "Sales Channel": "Online",
+#     "Region": "North America",
+#     "Country": "United States of America",
+#     "Item Type": "Clothes",
+#     "Order Weekday": "mon"
+# }
 
-# --- Clip ranges (automatic laga soo qaatay dataset-ka tababarka) ---
-clip_ranges = {
-    "Units Sold": (df["Units Sold"].min(), df["Units Sold"].max()),
-    "Unit Price": (df["Unit Price"].min(), df["Unit Price"].max()),
-    "Unit Cost": (df["Unit Cost"].min(), df["Unit Cost"].max()),
-    "Profit_per_Unit": ((df["Unit Price"] - df["Unit Cost"]).min(),
-                        (df["Unit Price"] - df["Unit Cost"]).max()),
-    "Total_Revenue": ((df["Unit Price"] * df["Units Sold"]).min(),
-                      (df["Unit Price"] * df["Units Sold"]).max()),
-    "Order_Ship_Days": (df["Order_Ship_Days"].min(), df["Order_Ship_Days"].max())
-}
+# # --- Clip ranges (automatic laga soo qaatay dataset-ka tababarka) ---
+# clip_ranges = {
+#     "Units Sold": (df["Units Sold"].min(), df["Units Sold"].max()),
+#     "Unit Price": (df["Unit Price"].min(), df["Unit Price"].max()),
+#     "Unit Cost": (df["Unit Cost"].min(), df["Unit Cost"].max()),
+#     "Profit_per_Unit": ((df["Unit Price"] - df["Unit Cost"]).min(),
+#                         (df["Unit Price"] - df["Unit Cost"]).max()),
+#     "Total_Revenue": ((df["Unit Price"] * df["Units Sold"]).min(),
+#                       (df["Unit Price"] * df["Units Sold"]).max()),
+#     "Order_Ship_Days": (df["Order_Ship_Days"].min(), df["Order_Ship_Days"].max())
+# }
 
-# --- Prepare features safely ---
-X_new_df = prepare_features_from_raw(new_record, clip_ranges=clip_ranges)
+# # --- Prepare features safely ---
+# X_new_df = prepare_features_from_raw(new_record, clip_ranges=clip_ranges)
 
-# --- Predictions ---
-lr_pred_new = float(lr.predict(X_new_df)[0])
-rf_pred_new = float(rf.predict(X_new_df)[0])
+# # --- Predictions ---
+# lr_pred_new = float(lr.predict(X_new_df)[0])
+# rf_pred_new = float(rf.predict(X_new_df)[0])
 
-print("Linear Regression Prediction:", lr_pred_new)
-print("Random Forest Prediction    :", rf_pred_new)
-print("Linear Regression:", float(lr.predict(X_new_df)[0]))
-print("Random Forest    :", float(rf.predict(X_new_df)[0]))
+# print("Linear Regression Prediction:", lr_pred_new)
+# print("Random Forest Prediction    :", rf_pred_new)
+# print("Linear Regression:", float(lr.predict(X_new_df)[0]))
+# print("Random Forest    :", float(rf.predict(X_new_df)[0]))
+
